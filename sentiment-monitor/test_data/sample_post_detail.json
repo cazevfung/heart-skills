@@ -1,0 +1,361 @@
+{
+  "source": "taptap",
+  "game_id": "unknown",
+  "post_id": "781072728173052756",
+  "data_type": "post_detail",
+  "fetched_at": "2026-03-12T05:17:52.582919+00:00",
+  "locale": "zh-CN",
+  "url": "https://www.taptap.cn/moment/781072728173052756",
+  "post": {
+    "id": "781072728173052756",
+    "title": "首页",
+    "body": "扫码下载  Android APK 下载  版本：v2.93.2-rel.100000 App Store 下载  版本：v5.21.0",
+    "author": "蛋小挞",
+    "url": "https://www.taptap.cn/moment/781072728173052756",
+    "created_at": "",
+    "score": 0,
+    "tags": []
+  },
+  "comments": [
+    {
+      "id": "comment_75702",
+      "author": "只看作者",
+      "text": "评论\n只看作者\n最热",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_29958",
+      "author": "",
+      "text": "评论",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_11716",
+      "author": "只看作者",
+      "text": "只看作者\n最热",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_27344",
+      "author": "",
+      "text": "只看作者",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_54753",
+      "author": "",
+      "text": "最热",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_54753",
+      "author": "",
+      "text": "最热",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_23780",
+      "author": "",
+      "text": "良言一句三冬暖，恶语伤人六月寒",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    }
+  ],
+  "comment_count": 7,
+  "status": "success",
+  "cie_data": [
+    {
+      "cie_id": "cie_comment_75702",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "只看作者",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "评论\n只看作者\n最热",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "首页"
+      }
+    },
+    {
+      "cie_id": "cie_comment_29958",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "评论",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "首页"
+      }
+    },
+    {
+      "cie_id": "cie_comment_11716",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "只看作者",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "只看作者\n最热",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "首页"
+      }
+    },
+    {
+      "cie_id": "cie_comment_27344",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "只看作者",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "首页"
+      }
+    },
+    {
+      "cie_id": "cie_comment_54753",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "最热",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "首页"
+      }
+    },
+    {
+      "cie_id": "cie_comment_54753",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "最热",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "首页"
+      }
+    },
+    {
+      "cie_id": "cie_comment_23780",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "良言一句三冬暖，恶语伤人六月寒",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "首页"
+      }
+    }
+  ]
+}

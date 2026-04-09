@@ -1,0 +1,44 @@
+{
+  "game_key": "heartopia",
+  "game_name": "心动小镇",
+  "game_name_en": "Heartopia",
+  
+  "visual": {
+    "default_style": "announcement_cover",
+    "default_theme": "default",
+    "default_character_mode": "single"
+  },
+  
+  "reference_images": {
+    "ref_file": "refs/heartopia.txt"
+  },
+  
+  "themes": {
+    "inherit_default": true,
+    "overrides": {},
+    "custom": {}
+  },
+  
+  "character_modes": {
+    "inherit_default": true,
+    "overrides": {},
+    "custom": {
+      "none": {
+        "count_desc": "无角色，画面以游戏Logo为核心视觉焦点",
+        "area_ratio": "游戏Logo居中放置，占屏幕30%以上，是画面的主要视觉焦点",
+        "interaction": "Logo单独展示",
+        "action_style": "Logo居中突出，周围留白"
+      }
+    }
+  },
+  
+  "output": {
+    "default_save_dir": "D:/App Dev/openclaw-main/data/game_data/announcement_images/heartopia",
+    "naming_pattern": "{game_key}_{theme}_{character_mode}_{timestamp}.jpeg"
+  },
+  
+  "prompt_template": {
+    "version": "v3",
+    "custom_template_path": null
+  }
+}

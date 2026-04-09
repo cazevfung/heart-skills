@@ -1,0 +1,282 @@
+[
+  {
+    "id": "comment_1",
+    "author": "lazycaz",
+    "text": "玩心动小镇以来从刚开始的期待猫猫狗狗，然后恨不得炖狗肉汤现在被迫送回宠物店寄养你知道我都经历了什么吗？我辛辛苦苦攒的食材，一做饭的时候猫狗就两面夹击挡我位置做饭你知道我糊了多少锅吗？恨死猫狗了。现实生活中养的猫狗如何不想被打扰时是可以放进笼子的。为什么你不出一个笼子呢？哪怕是定时的笼子也可以的啊。",
+    "timestamp": "2026-03-05T10:00:00Z",
+    "likes": 45,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_2",
+    "author": "灵华",
+    "text": "想讨好动保自己技术又不到位呗[表情_吃瓜]加笼子怕被动保骂就只能牺牲玩家体验了",
+    "timestamp": "2026-03-05T10:05:00Z",
+    "likes": 2,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_3",
+    "author": "梦泡泡",
+    "text": "什么时候给我退款，我氪金不是为了在群里指出你们的错误还被移除出内服群，有勇气删氪金，那就退款，别装死又当又立试探老玩家，去你们如愿一分不少把我氪进去的都吐出来",
+    "timestamp": "2026-03-05T11:00:00Z",
+    "likes": 24,
+    "replies": [
+      {
+        "id": "reply_3_1",
+        "author": "。。。。",
+        "text": "🔝",
+        "timestamp": "2026-03-06T08:00:00Z",
+        "likes": 0,
+        "replies": [],
+        "sentiment": "neutral"
+      }
+    ],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_4",
+    "author": "梦泡泡",
+    "text": "你心动小镇圈钱都圈不明白，学人做什么游戏，玩家研究出的bug你们不借鉴优化，除了会搞背刺氪金玩家，还会啥？会优化没用的东西，会一言不合就踢氪金玩家出内服群，做服务连个服务应该有的态度都没有，我为啥氪你们，这么不情愿让我在内服群那就赶紧退钱啊！小镇小镇几万块钱又不是退不起对吧！",
+    "timestamp": "2026-03-05T11:05:00Z",
+    "likes": 15,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_5",
+    "author": "是啊猫猫猫猫猫",
+    "text": "我们这里一大堆建议，一大堆bug，你不修你不改。人家一句你马上改666[表情_微笑][表情_微笑][表情_微笑]",
+    "timestamp": "2026-03-05T12:00:00Z",
+    "likes": 25,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_6",
+    "author": "123",
+    "text": "立本人一句话就改了[表情_大笑]",
+    "timestamp": "2026-03-05T12:05:00Z",
+    "likes": 16,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_7",
+    "author": "暖暖小女巫",
+    "text": "原来厂商是日本的啊？怪不得没有国际服的时候那么恨玩家，总是有一股一边看不上一边又要讨好的矛盾感，这下都解释得通了。",
+    "timestamp": "2026-03-05T12:10:00Z",
+    "likes": 19,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_8",
+    "author": "是啊猫猫猫猫猫",
+    "text": "我就问你，你要**干啥吧，亲日游戏吗？我们这里说一大堆猫狗bug，你不改你不修，行没事，他妈的，小日子给你来一句卡bug不公平，你马上修复，你几个意思啊？心动小镇[表情_微笑][表情_微笑][表情_微笑]",
+    "timestamp": "2026-03-05T12:15:00Z",
+    "likes": 22,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_9",
+    "author": "小黄",
+    "text": "日服和国服分开啊改啊，你赚鬼子钱我没意见，但别影响我卡建筑行吗？两个版本很难吗？",
+    "timestamp": "2026-03-05T12:20:00Z",
+    "likes": 19,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_10",
+    "author": "eou",
+    "text": "猫狗穿模卡位卡人的问题呢？你要修多少年，拍你雷霆的照呢",
+    "timestamp": "2026-03-05T12:25:00Z",
+    "likes": 19,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_11",
+    "author": "千寻",
+    "text": "我去，我不充钱了，原来是个鬼子游戏",
+    "timestamp": "2026-03-05T12:30:00Z",
+    "likes": 14,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_12",
+    "author": "蜗牛与摩天轮",
+    "text": "为啥",
+    "timestamp": "2026-03-06T08:05:00Z",
+    "likes": 0,
+    "replies": [],
+    "sentiment": "neutral"
+  },
+  {
+    "id": "comment_13",
+    "author": "叶",
+    "text": "小日子建议修卡建筑的bug，国人强烈反对，官方立马修了。国人天天骂的猫狗bug，一年没见改[表情_吃瓜]",
+    "timestamp": "2026-03-06T08:10:00Z",
+    "likes": 8,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_14",
+    "author": "喜人夫",
+    "text": "为什么要修复卡重叠？你该修复的不修复，不该修复的一直在修复。",
+    "timestamp": "2026-03-05T13:00:00Z",
+    "likes": 16,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_15",
+    "author": "巫窈",
+    "text": "日服一句话你就修了[表情_吐舌头]国内玩家还不如日本人是吗",
+    "timestamp": "2026-03-05T13:05:00Z",
+    "likes": 12,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_16",
+    "author": "聆鹤别三春",
+    "text": "更新就更新偷摸把建材颜色改了是什么意思[表情_生气][表情_生气][表情_生气][表情_生气] 玩家的建议是不听的，猫狗挡路是不改的 ，建造承重是不改的，就喜欢搞一些没用的，好好的建材是要整改的 ，你自己看看你阴不阴，你要不要看看你在干什么呢",
+    "timestamp": "2026-03-06T09:00:00Z",
+    "likes": 12,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_17",
+    "author": "姜姜爱吃薯条",
+    "text": "贱的不行了啊，给你氪的比较多的不管，惯的你的，我不行了哈，心动小镇辣鸡游戏辣鸡官服，服了哈退了退了，惯的你的[表情_大笑]",
+    "timestamp": "2026-03-05T13:10:00Z",
+    "likes": 11,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_18",
+    "author": "洛逸",
+    "text": "不是心动你想干啥，搞清楚你的立场是中国的，怎么听小日子的话呢？想干啥！退游了",
+    "timestamp": "2026-03-06T09:05:00Z",
+    "likes": 10,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_19",
+    "author": "🌀",
+    "text": "玩家提出来的东西 不改。建造限制那么多，卡个建筑BUG疯狂改。抽奖爆率暗改，反正就是对玩家友好的都得改，对你们造成经济损失的立马修呗? 老玩家回流，看到的东西还是这么恶心。返场更新慢的要死。我翻了翻评论区，咋的 还亲日了？",
+    "timestamp": "2026-03-05T13:15:00Z",
+    "likes": 10,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_20",
+    "author": "Ler",
+    "text": "绑定地板！！绑定墙面！！！修复没了就退钱退游！！！！！",
+    "timestamp": "2026-03-05T13:20:00Z",
+    "likes": 10,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_21",
+    "author": "九千七",
+    "text": "玩了一年半心动小镇，开服到现在，我承认这是一个非常不错的游戏，这个游戏也一直在慢慢变好，但是最近为什么状况百出，第一次让我很生气的点，蓝钻池里放许愿星，第二次森林咒语建材250没有彩色，第三次修改往期奖池建材不提前告知玩家，我花了两千多抽的家具，为什么说改就改。心动小镇你真的就要这样不断透支玩家的心吗？",
+    "timestamp": "2026-03-06T09:10:00Z",
+    "likes": 5,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_22",
+    "author": "P1ANT",
+    "text": "该修的不修 不该修的偷偷修",
+    "timestamp": "2026-03-05T13:25:00Z",
+    "likes": 5,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_23",
+    "author": "焦言",
+    "text": "你修复地板了我想退游并且你给我退钱日本人话你听的蛮好的嘛",
+    "timestamp": "2026-03-05T13:30:00Z",
+    "likes": 7,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_24",
+    "author": "涵宝",
+    "text": "该修的bug，你不修不该修的bug，你一直说你是日本人吗？",
+    "timestamp": "2026-03-06T09:15:00Z",
+    "likes": 2,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_25",
+    "author": "涵宝",
+    "text": "为什么要修复卡重叠？你该修复的不修复，不该修复的一直在修复。",
+    "timestamp": "2026-03-06T09:20:00Z",
+    "likes": 2,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_26",
+    "author": "二宝",
+    "text": "罕见来的吧[表情_开心][表情_开心]",
+    "timestamp": "2026-03-05T14:00:00Z",
+    "likes": 2,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_27",
+    "author": "新之助",
+    "text": "🐶焊间",
+    "timestamp": "2026-03-05T14:05:00Z",
+    "likes": 4,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_28",
+    "author": "黑皮茄茄",
+    "text": "竟然不顾自己衣食父母跑去捧小鬼子臭脚，你们是真的找骂",
+    "timestamp": "2026-03-05T14:10:00Z",
+    "likes": 3,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_29",
+    "author": "肝起来到3点",
+    "text": "日本右翼投资的公司",
+    "timestamp": "2026-03-06T08:15:00Z",
+    "likes": 6,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_30",
+    "author": "暗夜鸿",
+    "text": "倭寇小镇退钱!",
+    "timestamp": "2026-03-07T10:00:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "version": "2026-03-12",
+  "cluster": "east_asia",
+  "region": "ja-JP",
+  "categories": {
+    "sarcastic_respect": {
+      "patterns": ["お疲れ様です", "なるほど", "さすが", "流石", "お上手", "ご立派"],
+      "severity": "medium",
+      "escalation_speed": "slow",
+      "context": "敬語による皮肉",
+      "notes": "文脈によっては本当の称賛、場合によっては強い皮肉"
+    },
+    "withdrawal_threat": {
+      "patterns": ["辞めます", "退会", "もうやめます", "引退", " uninstall", "削除"],
+      "severity": "high",
+      "escalation_speed": "medium",
+      "context": "離脱の意思表示"
+    },
+    "disappointment": {
+      "patterns": ["残念", "がっかり", "期待外れ", "信じられない", "酷すぎ", "ひどい"],
+      "severity": "medium",
+      "escalation_speed": "medium",
+      "context": "失望の表明"
+    },
+    "direct_criticism": {
+      "patterns": ["最悪", "ゴミ", "カス", "意味不明", "何これ", "ふざけんな"],
+      "severity": "high",
+      "escalation_speed": "fast",
+      "context": "直接的な批判"
+    }
+  },
+  "metadata": {
+    "last_evolved": "2026-03-12T12:00:00Z",
+    "evolution_method": "manual_initial",
+    "confidence_threshold": 0.7,
+    "notes": "日本語の皮肉は文脈に大きく依存するため、単語だけでなく前後の文脈も分析対象"
+  }
+}

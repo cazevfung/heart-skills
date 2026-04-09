@@ -1,0 +1,74 @@
+{
+  "sizes": {
+    "weibo_single": {
+      "width": 1080,
+      "height": 1920,
+      "name_zh": "微博竖版",
+      "name_en": "Weibo portrait",
+      "usage": "单图长图、九宫格单张"
+    },
+    "weibo_banner": {
+      "width": 1920,
+      "height": 1080,
+      "name_zh": "微博横版",
+      "name_en": "Weibo landscape",
+      "usage": "头图、横幅、活动主图"
+    },
+    "taptap_banner": {
+      "width": 1200,
+      "height": 628,
+      "name_zh": "TapTap 列表图",
+      "name_en": "TapTap list cover",
+      "usage": "论坛/动态列表封面、分享预览"
+    },
+    "taptap_cover": {
+      "width": 1024,
+      "height": 576,
+      "name_zh": "TapTap 封面",
+      "name_en": "TapTap cover",
+      "usage": "公告详情封面"
+    },
+    "reddit_banner": {
+      "width": 1920,
+      "height": 256,
+      "name_zh": "Reddit 横幅",
+      "name_en": "Reddit banner",
+      "usage": "社区头图、subreddit banner"
+    },
+    "reddit_card": {
+      "width": 1200,
+      "height": 630,
+      "name_zh": "Reddit 卡片",
+      "name_en": "Reddit card",
+      "usage": "帖子预览图、链接卡片"
+    },
+    "bilibili_cover": {
+      "width": 1168,
+      "height": 658,
+      "name_zh": "B站封面",
+      "name_en": "Bilibili cover",
+      "usage": "视频封面、动态配图"
+    },
+    "bilibili_dynamic": {
+      "width": 1080,
+      "height": 1920,
+      "name_zh": "B站动态竖版",
+      "name_en": "Bilibili dynamic portrait",
+      "usage": "动态长图"
+    },
+    "general_square": {
+      "width": 1024,
+      "height": 1024,
+      "name_zh": "通用方图",
+      "name_en": "General square",
+      "usage": "通用、头像/图标、多平台兼容"
+    },
+    "general_landscape": {
+      "width": 1920,
+      "height": 1080,
+      "name_zh": "通用横版",
+      "name_en": "General landscape",
+      "usage": "通用横版、官网/海报"
+    }
+  }
+}

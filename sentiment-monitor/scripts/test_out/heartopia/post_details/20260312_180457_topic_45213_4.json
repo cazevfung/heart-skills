@@ -1,0 +1,22 @@
+{
+  "source": "taptap",
+  "game_id": "45213",
+  "post_id": "topic_45213_4",
+  "data_type": "post_detail",
+  "fetched_at": "2026-03-12T10:04:57.377635+00:00",
+  "locale": "zh-CN",
+  "url": "https://www.taptap.cn/user/368331318",
+  "post": {
+    "id": "topic_45213_4",
+    "title": "爆肝2473小时",
+    "body": "",
+    "author": "爆肝2473小时",
+    "url": "https://www.taptap.cn/user/368331318",
+    "created_at": "9 小时前",
+    "score": 2473,
+    "tags": []
+  },
+  "comments": [],
+  "comment_count": 0,
+  "status": "success"
+}

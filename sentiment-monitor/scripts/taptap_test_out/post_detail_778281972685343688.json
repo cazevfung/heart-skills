@@ -1,0 +1,2473 @@
+{
+  "source": "taptap",
+  "game_id": "unknown",
+  "post_id": "778281972685343688",
+  "data_type": "post_detail",
+  "fetched_at": "2026-03-12T06:45:13.999576+00:00",
+  "locale": "zh-CN",
+  "url": "https://www.taptap.cn/moment/778281972685343688",
+  "post": {
+    "id": "778281972685343688",
+    "title": "《心动小镇》3月5日停服维护公告",
+    "body": "巴布，亲爱的小镇发展家：\n为了给各位发展家提供更好的游戏体验，小镇将在 3月5日（周四）凌晨4:00 - 7:00 进行停服维护。维护时间如有延迟，请大家留意后续公告的具体时间~\n维护期间将暂时无法进入游戏，请发展家们合理安排游戏时间，以免影响游戏体验。\n具体维护内容如下：\n◆功能更新及优化◆\n【拍照功能优化】\n3月5日更新后，拍照系统将拥有更多功能~\n1、支持在拍摄时对画面进行调节，例如曝光调节、左右倾斜镜头。\n2、拍照系统新增使用官方预设运镜功能。\n3、拍照系统新增固定视角，发展家切换【固定视角】后，可以在固定画面中移动。\n4、相册将支持批量删除功能。\n【滑冰玩法优化】\n滑冰时，若牵手和好友共同滑冰，积攒能量后，将可以释放特殊的双人出色连续动作。\n【“出海寻宝”上新】\n“出海寻宝”项目发现了新的藏宝点，现在能找到新的宝物：“黄金牛摆件”、“黄金玉瓷吊灯”、“宝藏金块堆”等“黄金室”系列家具或黄金碎片；发展家也可使用黄金碎片在“黄金熔铸所”内兑换该系列家具。\n温馨提示：发展家等级达到40级并完成“出海寻宝”引导任务，即可参加凯茜和小鬼合作开展的“出海寻宝”娱乐项目。\n【服装店上新】\n3月14日6:00后，多萝西的“莫林”时装店将上新人格系列时装单品。\n1、更新后，人格系列时装单品将会在多萝西“莫林”时装店的服饰模特上进行刷新，每位发展家刷新的人格系列时装单品不同。\n2、人格系列时装单品支持订购机订购。\n温馨提示：由于每位发展家的服装店刷新内容不同，还请发展家及时留意后续刷新哦~\n【家居店上新】\n3月5日更新后，波叔家居店将上新咖啡店主题系列家具！“商业专用咖啡机”、“咖啡研磨机”、“咖啡豆组合”等家具欢迎发展家选购~\n温馨提示：由于每位发展家的家居店刷新内容不同，还请发展家及时留意后续刷新哦~\n【自助研究室上新】\n自助研究室将上新互动物品：传送门系列家具（地面传送门、悬顶传送门）、滑梯系列建材（直道滑梯、左弯道滑梯、左大弯道滑梯、右弯道滑梯、右大弯道滑梯）\n其中传送门将支持自定义出入口；商店上新的滑梯可以与此前的滑梯共同使用！\n【过山车玩法优化】\n1、过山车轨道支持染色。\n2、过山车玩法支持多圈游玩。\n【书籍创作优化】\n1、书籍中的图片支持放大。\n2、优化了书籍创作时编辑位置的记忆与恢复功能。同时优化了编辑时的位置与画面跟随体验。\n3、友友通新增书籍购买、阅读、点赞相关内容。\n4、书籍管理界面中已出版的书籍支持删除。书籍设置为不公开后将从书籍管理界面中隐藏。\n【育宠商店宠物时装上新】\n3月5日更新后，琼女士的育宠商店将上新宠物时装！“嘻哈套装”、“蒙面大盗头套”、“香蕉头套”等有趣可爱的宠物时装！使用宠物毛球即可购买~\n温馨提示：由于每位发展家的育宠商店刷新内容不同，还请发展家及时留意后续刷新哦。\n【敲敲】\n当发展家处于部分无法留意周边环境的状态，如绘画、创作书籍、建造时，可能无法及时收到其他发展家的消息。此时其他发展家可通过\"敲敲\"尝试与TA建立联系~\n【生活碎片】\n发展家和企鹅的种群熟悉度达到4级以上，在冰雪季结束之后，将会不定时收到企鹅的生活碎片记录。\n【其他功能优化】\n1、优化了道具详情界面，新增了道具的标签。\n2、优化了蓝图封面的拍照逻辑。\n3、留声机已刻录界面新增删除功能。\n4、优化了头像拍摄的相关逻辑。\n5、极光天气图片新增了中小极光。\n6、优化了任务系统的界面显示。\n7、优化了部分设备出现性能问题时服饰特效的显示效果。\n【问题修复】\n1、修复了 使用滑梯时手持物未隐藏 的问题\n2、优化了 部分发型（如：清冷波波头长辫）高光分界线过于明显 的问题\n3、优化了 宠物服装[小羊羔绒装]距离过远时看不到宠物眼睛 的问题\n4、修复了 多人建造时双方看到的部分建材颜色不一致 的问题\n5、修复了 部分情况下在烹饪时选中神奇调料时提示家具需要解锁 的问题\n6、修复了 部分未投放的内容在图鉴中异常显示 的问题\n7、修复了 部分收藏（如：小黄鸭捕虫网）缺少获取途径描述 的问题\n8、修复了 红鼻子驯鹿地毯可以和其他地毯穿插摆放 的问题\n9、修复了部分情况下样板间展示商品与实际可购买的商品不一致  的问题\n10、修复了 合并小镇后，原本刷新的动物赠礼会消失  的问题\n11、修复了 奶油多功能瓷灶放在冰面上时，无法交互烹饪  的问题\n12、修复了“萝卜泥肉”食谱道具名称错误的问题。\n13、修复了“自动续杯咖啡摆件”道具名称错误的问题。\n14、修复了 冰晶鱼事件开启后会出现其他非事件鱼 的问题\n15、修复了 在冰场地面中可以抛竿并且丢鱼饵 的问题\n16、修复了 潮流回忆手账自定义排版错误 的问题\n17、修复了 冰棱羽箭鱼竿缺少拉竿动画的问题\n18、修复了已解锁物品仍可在订购机中刷出的问题。\n19、修复了部分发型如“层次蝴蝶结双马尾”存在",
+    "author": "小镇黑黑喵",
+    "url": "https://www.taptap.cn/moment/778281972685343688",
+    "created_at": "2026/03/05 10:24:46",
+    "score": 130,
+    "tags": []
+  },
+  "comments": [
+    {
+      "id": "comment_0",
+      "author": "可乐",
+      "text": "玩心动小镇以来从刚开始的期待猫猫狗狗，然后恨不得炖狗肉汤现在被迫送回宠物店寄养你知道我都经历了什么吗？我辛辛苦苦攒的食材，一做饭的时候猫狗就两面夹击挡我位置做饭你知道我糊了多少锅吗？恨死猫狗了。现实生活中养的猫狗如何不想被打扰时是可以放进笼子的。为什么你不出一个笼子呢？哪怕是定时的笼子也可以的啊。一次是一小时两小时也行呀。另外，每次做饭画面就卡顿几个好友到自己家附近也开始卡顿的问题能不能修复修复？最让人恨的就是把很久的食材攒到一天做时就开始给人使劲卡，卡到想卸载小镇。真心请求尽早修复不然真的很想退游。另外，1*新出的极光天真的是很无趣，也没任务可做，也没热闹可凑。如果可以增加一些关于极光天的花鸟鱼虫将会有点乐趣。2*升级卷给的太慢，很耗时间，在每日等待的过程中很消耗玩家的耐心真的超级想退游。希望可以一周给一张高级爱好升级卷，发展家每日任务再增加5个这样可以提高平台也玩家的粘性。3*最好增加一个抓萤火虫很多孩子其实并没有见过萤火虫，另外加上要上课难得放学想休息一会儿。如果可以加一个增加一个夜间抓萤火虫的话就提高了很多玩家的活跃度与好感度。",
+      "timestamp": "",
+      "likes": 45,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_1",
+      "author": "灵华",
+      "text": "想讨好动保自己技术又不到位呗加笼子怕被动保骂就只能牺牲玩家体验了",
+      "timestamp": "",
+      "likes": 2,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_2",
+      "author": "蜗牛与摩天轮",
+      "text": "害得我没办法挡住了只能登出重新进，刷新猫狗的位置",
+      "timestamp": "",
+      "likes": 1,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_3",
+      "author": "梦泡泡",
+      "text": "什么时候给我退款，我氪金不是为了在群里指出你们的错误还被移除出内服群，有勇气删氪金，那就退款，别装死又当又立试探老玩家，去你们如愿一分不少把我氪进去的都吐出来",
+      "timestamp": "",
+      "likes": 24,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_4",
+      "author": "梦泡泡",
+      "text": "你心动小镇圈钱都圈不明白，学人做什么游戏，玩家研究出的bug你们不借鉴优化，除了会搞背刺氪金玩家，还会啥？会优化没用的东西，会一言不合就踢氪金玩家出内服群，做服务连个服务应该有的态度都没有，我为啥氪你们，这么不情愿让我在内服群那就赶紧退钱啊！小镇小镇几万块钱又不是退不起对吧！",
+      "timestamp": "",
+      "likes": 15,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_5",
+      "author": "。。。。",
+      "text": "🔝",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_6",
+      "author": "是啊猫猫猫猫猫",
+      "text": "我们这里一大堆建议，一大堆bug，你不修你不改。人家一句你马上改666",
+      "timestamp": "",
+      "likes": 25,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_7",
+      "author": "123",
+      "text": "立本人一句话就改了",
+      "timestamp": "",
+      "likes": 16,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_8",
+      "author": "暖暖小女巫",
+      "text": "原来厂商是日本的啊？怪不得没有国际服的时候那么恨玩家，总是有一股一边看不上一边又要讨好的矛盾感，这下都解释得通了。",
+      "timestamp": "",
+      "likes": 19,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_9",
+      "author": "肝起来到3点",
+      "text": "日本右翼投资的公司",
+      "timestamp": "",
+      "likes": 6,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_10",
+      "author": "叶",
+      "text": "@肝起来到3点 \n我去，现在出号来得及吗",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_11",
+      "author": "是啊猫猫猫猫猫",
+      "text": "我就问你，你要**干啥吧，亲日游戏吗？我们这里说一大堆猫狗bug，你不改你不修，行没事，他妈的，小日子给你来一句卡bug不公平，你马上修复，你几个意思啊？心动小镇",
+      "timestamp": "",
+      "likes": 22,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_12",
+      "author": "小黄",
+      "text": "日服和国服分开啊改啊，你赚鬼子钱我没意见，但别影响我卡建筑行吗？两个版本很难吗？",
+      "timestamp": "",
+      "likes": 19,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_13",
+      "author": "eou",
+      "text": "猫狗穿模卡位卡人的问题呢？你要修多少年，拍你雷霆的照呢",
+      "timestamp": "",
+      "likes": 19,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_14",
+      "author": "千寻",
+      "text": "我去，我不充钱了，原来是个鬼子游戏",
+      "timestamp": "",
+      "likes": 14,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_15",
+      "author": "蜗牛与摩天轮",
+      "text": "为啥",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_16",
+      "author": "叶",
+      "text": "@蜗牛与摩天轮 \n小日子建议修卡建筑的bug，国人强烈反对，官方立马修了。国人天天骂的猫狗bug，一年没见改",
+      "timestamp": "",
+      "likes": 8,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_17",
+      "author": "喜人夫",
+      "text": "为什么要修复卡bug那些啊？你猫狗影响做饭不改改？改这些做什么？这样我们以后是不是就不用抽建材了",
+      "timestamp": "",
+      "likes": 16,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_18",
+      "author": "巫窈",
+      "text": "日服一句话你就修了国内玩家还不如日本人是吗",
+      "timestamp": "",
+      "likes": 12,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_19",
+      "author": "灵华",
+      "text": "想走江百老路了呗",
+      "timestamp": "",
+      "likes": 1,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_20",
+      "author": "爸爸",
+      "text": "真的假的？",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_21",
+      "author": "聆鹤别三春",
+      "text": "更新就更新偷摸把建材颜色改了是什么意思 玩家的建议是不听的，猫狗挡路是不改的 ，建造承重是不改的，就喜欢搞一些没用的，好好的建材是要整改的 ，你自己看看你阴不阴，你要不要看看你在干什么呢😅😅😅😅",
+      "timestamp": "",
+      "likes": 12,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_22",
+      "author": "姜姜爱吃薯条",
+      "text": "贱的不行了啊，给你氪的比较多的不管，惯的你的，我不行了哈，心动小镇辣鸡游戏辣鸡官服，服了哈退了退了，惯的你的",
+      "timestamp": "",
+      "likes": 11,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_23",
+      "author": "洛逸",
+      "text": "不是心动你想干啥，搞清楚你的立场是中国的，怎么听小日子的话呢？想干啥！退游了",
+      "timestamp": "",
+      "likes": 10,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_24",
+      "author": "🌀",
+      "text": "玩家提出来的东西 不改。建造限制那么多，卡个建筑BUG疯狂改。抽奖爆率暗改，反正就是对玩家友好的都得改，对你们造成经济损失的立马修呗? 老玩家回流，看到的东西还是这么恶心。返场更新慢的要死。我翻了翻评论区，咋的 还亲日了？",
+      "timestamp": "",
+      "likes": 10,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_25",
+      "author": "Ler",
+      "text": "绑定地板！！绑定墙面！！！修复没了就退钱退游！！！！！",
+      "timestamp": "",
+      "likes": 10,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_26",
+      "author": "猫尼",
+      "text": "你家二楼家具是一年都不上新是吗？好不容易更点新家具，就不能更新当天换一套出来吗还要玩家慢慢用订购券？你以为这样可以叼着玩家吗？？",
+      "timestamp": "",
+      "likes": 6,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_27",
+      "author": "灵华",
+      "text": "家具就是死活不肯出新的，只有单件遇到过，样板间永远是之前的，恶心死了",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_28",
+      "author": "猫尼",
+      "text": "@灵华 \n是这样的，今天更新又是换色老三套，更新跟个摆设一样",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_29",
+      "author": "P1ANT",
+      "text": "你们客服让我费老大劲证明我遇到的蚂蚁概率不对 我用道具 录屏 截图 你们说我应该在虫集聚点放道具 为了录屏展示 我在不同的地方放了多次道具 录屏完了上传给客服看又很慢 从6点弄到8点多 上传成功后你们客服直接不回我了 我怎么发消息都不理人 两天后高抬贵手直接给我结束对话选了个已解决 告诉我提升捕虫等级 搞笑呢 我开服第一天全勤到现在 捕虫满级 蚂蚁一个4级的虫子 别的虫快200只了蚂蚁就20只 你还让我往哪提升？而且我怎么不知道虫的刷新数量和等级有关呢 直接给我关了反馈对话 选择已解决可还行 你们那个反馈客服从来就没解决过事 之前pc端有问题上不去游戏 说了怎么重启重下没用 她还是叫我重启 后来还是看到别人说管客服要安装包(自己官网下的显示没更新) 我主动去要后隔了很久才发给我 除了这个我主动要的安装包以外 其他事从来没有解决过",
+      "timestamp": "",
+      "likes": 6,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_30",
+      "author": "蜗牛与摩天轮",
+      "text": "确实非常少，我抓了好久才5星。而且那个薛定谔的诱虫器，都不知道概率增加的机制是什么，有时候有用有时候没用，而且没用的概率比有用的大",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_31",
+      "author": "焦言",
+      "text": "你修复地板了我想退游并且你给我退钱日本人话你听的蛮好的嘛",
+      "timestamp": "",
+      "likes": 7,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_32",
+      "author": "九千七",
+      "text": "玩了一年半心动小镇，开服到现在，我承认这是一个非常不错的游戏，这个游戏也一直在慢慢变好，但是最近为什么状况百出，第一次让我很生气的点，蓝钻池里放许愿星，第二次森林咒语建材250没有彩色，第三次修改往期奖池建材不提前告知玩家，我花了两千多抽的家具，为什么说改就改。心动小镇你真的就要这样不断透支玩家的心吗？",
+      "timestamp": "",
+      "likes": 5,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_33",
+      "author": "灵华",
+      "text": "最骚的还是上次票根兑换补偿，玩家什么也没干就要为他们自己造成的损失和不公买单这次又是该改的不改，不该改的暗改",
+      "timestamp": "",
+      "likes": 1,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_34",
+      "author": "今夜邀君入梦来",
+      "text": "你优化了神魔，真的好丑啊",
+      "timestamp": "",
+      "likes": 5,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_35",
+      "author": "鲸",
+      "text": "这个地板是上个赛季的吗？",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_36",
+      "author": "赖赖",
+      "text": "啊喂，你自己看看什么玩意这是",
+      "timestamp": "",
+      "likes": 5,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_37",
+      "author": "赖赖",
+      "text": "暗的要死",
+      "timestamp": "",
+      "likes": 0,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_38",
+      "author": "云屿",
+      "text": "上方是极地的问题变暗，有横纹。下方是其他几期物品变暗问题",
+      "timestamp": "",
+      "likes": 6,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_39",
+      "author": "洛可可",
+      "text": "不是心动你想干啥，搞清楚你的立场是中国的，怎么听小日子的话呢？想干啥！退游了",
+      "timestamp": "",
+      "likes": 5,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_40",
+      "author": "好好玩",
+      "text": "，有毛病啊，我图他亮才抽的，抽完了，你偷偷给我暗改丑成这样，我真的服了",
+      "timestamp": "",
+      "likes": 5,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_41",
+      "author": "肝起来到3点",
+      "text": "TAPTAP不会是日本右翼注资的公司吧？",
+      "timestamp": "",
+      "likes": 5,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_42",
+      "author": "P1ANT",
+      "text": "该修的不修 不该修的偷偷修",
+      "timestamp": "",
+      "likes": 5,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_43",
+      "author": "云屿",
+      "text": "极地我相信已经知道了好多反馈，。其他的也是这样，家具这个样子",
+      "timestamp": "",
+      "likes": 3,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_44",
+      "author": "云屿",
+      "text": "都是最高画质情况下，屏幕亮度最高情况下的样子",
+      "timestamp": "",
+      "likes": 3,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_45",
+      "author": "pyq0378",
+      "text": "更新后发现了一个问题bug，我投喂动物的时候明明喂了食物，为什么食物的数量仍不减少？结果我打开背包后竟然显示的是因食物投喂而减少过后的数量。这个bug我看得必须修复！还有宠物动物穿墙bug，以及之前玩家们所发现的一直到现在未修复的bug，能修复的必须修复！作为一个诚挚的游戏官方至少要做到多倾听并采纳部分玩家的建议同时尊重玩家的意愿吧！",
+      "timestamp": "",
+      "likes": 3,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_46",
+      "author": "pyq0378",
+      "text": "再说官方你们游戏开发商是中国公司，作为中国公司就要对中国玩家好一点！要公正对待！多倾听中国玩家的部分有用的而且有价值的意见并及时采取恰当的措施！建议@心动小镇在事态发展到过于严重到无法挽回的地步前赶紧纠正自己的立场和态度！不要再有这种玩家退游后，官方却“你不玩有的是人玩”这种傲慢的态度了！",
+      "timestamp": "",
+      "likes": 1,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_47",
+      "author": "叶",
+      "text": "心动小镇每个玩家个人主页头像能换自己相册最喜欢的当头像就好了，",
+      "timestamp": "",
+      "likes": 1,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_48",
+      "author": "童心未泯，一切皆甜",
+      "text": "出了这功能，会出现一堆骗子的，比如某些人头像上面一堆数字，写着加企鹅来领永久皮肤，甚至还有人把别人的主页id挂在头像上，大家会去骚扰那个被挂di的人（某超自然就是最好的列子）",
+      "timestamp": "",
+      "likes": 5,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_49",
+      "author": "叶",
+      "text": "@童心未泯，一切皆甜 \n别人主页挂头像上可以让官方设置违规，违规的不允许换少儿不宜头像，不允许挂各种方式骚扰别人的头像，违规就封号一两个月",
+      "timestamp": "",
+      "likes": 1,
+      "parent_id": null,
+      "replies": []
+    },
+    {
+      "id": "comment_50",
+      "author": "。。。。。",
+      "text": "喂动物有两个BUG：一是食物数量不显示减少，但实际是消耗的；二是喂完动物后音效会丢失，需要打开背包再关闭后，音效就恢复了。",
+      "timestamp": "",
+      "likes": 4,
+      "parent_id": null,
+      "replies": []
+    }
+  ],
+  "comment_count": 51,
+  "status": "success",
+  "cie_data": [
+    {
+      "cie_id": "cie_comment_0",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "可乐",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "玩心动小镇以来从刚开始的期待猫猫狗狗，然后恨不得炖狗肉汤现在被迫送回宠物店寄养你知道我都经历了什么吗？我辛辛苦苦攒的食材，一做饭的时候猫狗就两面夹击挡我位置做饭你知道我糊了多少锅吗？恨死猫狗了。现实生活中养的猫狗如何不想被打扰时是可以放进笼子的。为什么你不出一个笼子呢？哪怕是定时的笼子也可以的啊。一次是一小时两小时也行呀。另外，每次做饭画面就卡顿几个好友到自己家附近也开始卡顿的问题能不能修复修复？最让人恨的就是把很久的食材攒到一天做时就开始给人使劲卡，卡到想卸载小镇。真心请求尽早修复不然真的很想退游。另外，1*新出的极光天真的是很无趣，也没任务可做，也没热闹可凑。如果可以增加一些关于极光天的花鸟鱼虫将会有点乐趣。2*升级卷给的太慢，很耗时间，在每日等待的过程中很消耗玩家的耐心真的超级想退游。希望可以一周给一张高级爱好升级卷，发展家每日任务再增加5个这样可以提高平台也玩家的粘性。3*最好增加一个抓萤火虫很多孩子其实并没有见过萤火虫，另外加上要上课难得放学想休息一会儿。如果可以加一个增加一个夜间抓萤火虫的话就提高了很多玩家的活跃度与好感度。",
+        "likes": 45,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_1",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "灵华",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "想讨好动保自己技术又不到位呗加笼子怕被动保骂就只能牺牲玩家体验了",
+        "likes": 2,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_2",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "蜗牛与摩天轮",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "害得我没办法挡住了只能登出重新进，刷新猫狗的位置",
+        "likes": 1,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_3",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "梦泡泡",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "什么时候给我退款，我氪金不是为了在群里指出你们的错误还被移除出内服群，有勇气删氪金，那就退款，别装死又当又立试探老玩家，去你们如愿一分不少把我氪进去的都吐出来",
+        "likes": 24,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_4",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "梦泡泡",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "你心动小镇圈钱都圈不明白，学人做什么游戏，玩家研究出的bug你们不借鉴优化，除了会搞背刺氪金玩家，还会啥？会优化没用的东西，会一言不合就踢氪金玩家出内服群，做服务连个服务应该有的态度都没有，我为啥氪你们，这么不情愿让我在内服群那就赶紧退钱啊！小镇小镇几万块钱又不是退不起对吧！",
+        "likes": 15,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_5",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "。。。。",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "🔝",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_6",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "是啊猫猫猫猫猫",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "我们这里一大堆建议，一大堆bug，你不修你不改。人家一句你马上改666",
+        "likes": 25,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_7",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "123",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "立本人一句话就改了",
+        "likes": 16,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_8",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "暖暖小女巫",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "原来厂商是日本的啊？怪不得没有国际服的时候那么恨玩家，总是有一股一边看不上一边又要讨好的矛盾感，这下都解释得通了。",
+        "likes": 19,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_9",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "肝起来到3点",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "日本右翼投资的公司",
+        "likes": 6,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_10",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "叶",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "@肝起来到3点 \n我去，现在出号来得及吗",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_11",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "是啊猫猫猫猫猫",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "我就问你，你要**干啥吧，亲日游戏吗？我们这里说一大堆猫狗bug，你不改你不修，行没事，他妈的，小日子给你来一句卡bug不公平，你马上修复，你几个意思啊？心动小镇",
+        "likes": 22,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_12",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "小黄",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "日服和国服分开啊改啊，你赚鬼子钱我没意见，但别影响我卡建筑行吗？两个版本很难吗？",
+        "likes": 19,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_13",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "eou",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "猫狗穿模卡位卡人的问题呢？你要修多少年，拍你雷霆的照呢",
+        "likes": 19,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_14",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "千寻",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "我去，我不充钱了，原来是个鬼子游戏",
+        "likes": 14,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_15",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "蜗牛与摩天轮",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "为啥",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_16",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "叶",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "@蜗牛与摩天轮 \n小日子建议修卡建筑的bug，国人强烈反对，官方立马修了。国人天天骂的猫狗bug，一年没见改",
+        "likes": 8,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_17",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "喜人夫",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "为什么要修复卡bug那些啊？你猫狗影响做饭不改改？改这些做什么？这样我们以后是不是就不用抽建材了",
+        "likes": 16,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_18",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "巫窈",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "日服一句话你就修了国内玩家还不如日本人是吗",
+        "likes": 12,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_19",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "灵华",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "想走江百老路了呗",
+        "likes": 1,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_20",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "爸爸",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "真的假的？",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_21",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "聆鹤别三春",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "更新就更新偷摸把建材颜色改了是什么意思 玩家的建议是不听的，猫狗挡路是不改的 ，建造承重是不改的，就喜欢搞一些没用的，好好的建材是要整改的 ，你自己看看你阴不阴，你要不要看看你在干什么呢😅😅😅😅",
+        "likes": 12,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_22",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "姜姜爱吃薯条",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "贱的不行了啊，给你氪的比较多的不管，惯的你的，我不行了哈，心动小镇辣鸡游戏辣鸡官服，服了哈退了退了，惯的你的",
+        "likes": 11,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_23",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "洛逸",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "不是心动你想干啥，搞清楚你的立场是中国的，怎么听小日子的话呢？想干啥！退游了",
+        "likes": 10,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_24",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "🌀",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "玩家提出来的东西 不改。建造限制那么多，卡个建筑BUG疯狂改。抽奖爆率暗改，反正就是对玩家友好的都得改，对你们造成经济损失的立马修呗? 老玩家回流，看到的东西还是这么恶心。返场更新慢的要死。我翻了翻评论区，咋的 还亲日了？",
+        "likes": 10,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_25",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "Ler",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "绑定地板！！绑定墙面！！！修复没了就退钱退游！！！！！",
+        "likes": 10,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_26",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "猫尼",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "你家二楼家具是一年都不上新是吗？好不容易更点新家具，就不能更新当天换一套出来吗还要玩家慢慢用订购券？你以为这样可以叼着玩家吗？？",
+        "likes": 6,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_27",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "灵华",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "家具就是死活不肯出新的，只有单件遇到过，样板间永远是之前的，恶心死了",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_28",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "猫尼",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "@灵华 \n是这样的，今天更新又是换色老三套，更新跟个摆设一样",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_29",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "P1ANT",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "你们客服让我费老大劲证明我遇到的蚂蚁概率不对 我用道具 录屏 截图 你们说我应该在虫集聚点放道具 为了录屏展示 我在不同的地方放了多次道具 录屏完了上传给客服看又很慢 从6点弄到8点多 上传成功后你们客服直接不回我了 我怎么发消息都不理人 两天后高抬贵手直接给我结束对话选了个已解决 告诉我提升捕虫等级 搞笑呢 我开服第一天全勤到现在 捕虫满级 蚂蚁一个4级的虫子 别的虫快200只了蚂蚁就20只 你还让我往哪提升？而且我怎么不知道虫的刷新数量和等级有关呢 直接给我关了反馈对话 选择已解决可还行 你们那个反馈客服从来就没解决过事 之前pc端有问题上不去游戏 说了怎么重启重下没用 她还是叫我重启 后来还是看到别人说管客服要安装包(自己官网下的显示没更新) 我主动去要后隔了很久才发给我 除了这个我主动要的安装包以外 其他事从来没有解决过",
+        "likes": 6,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_30",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "蜗牛与摩天轮",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "确实非常少，我抓了好久才5星。而且那个薛定谔的诱虫器，都不知道概率增加的机制是什么，有时候有用有时候没用，而且没用的概率比有用的大",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_31",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "焦言",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "你修复地板了我想退游并且你给我退钱日本人话你听的蛮好的嘛",
+        "likes": 7,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_32",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "九千七",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "玩了一年半心动小镇，开服到现在，我承认这是一个非常不错的游戏，这个游戏也一直在慢慢变好，但是最近为什么状况百出，第一次让我很生气的点，蓝钻池里放许愿星，第二次森林咒语建材250没有彩色，第三次修改往期奖池建材不提前告知玩家，我花了两千多抽的家具，为什么说改就改。心动小镇你真的就要这样不断透支玩家的心吗？",
+        "likes": 5,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_33",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "灵华",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "最骚的还是上次票根兑换补偿，玩家什么也没干就要为他们自己造成的损失和不公买单这次又是该改的不改，不该改的暗改",
+        "likes": 1,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_34",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "今夜邀君入梦来",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "你优化了神魔，真的好丑啊",
+        "likes": 5,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_35",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "鲸",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "这个地板是上个赛季的吗？",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_36",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "赖赖",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "啊喂，你自己看看什么玩意这是",
+        "likes": 5,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_37",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "赖赖",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "暗的要死",
+        "likes": 0,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_38",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "云屿",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "上方是极地的问题变暗，有横纹。下方是其他几期物品变暗问题",
+        "likes": 6,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_39",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "洛可可",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "不是心动你想干啥，搞清楚你的立场是中国的，怎么听小日子的话呢？想干啥！退游了",
+        "likes": 5,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_40",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "好好玩",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "，有毛病啊，我图他亮才抽的，抽完了，你偷偷给我暗改丑成这样，我真的服了",
+        "likes": 5,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_41",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "肝起来到3点",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "TAPTAP不会是日本右翼注资的公司吧？",
+        "likes": 5,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_42",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "P1ANT",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "该修的不修 不该修的偷偷修",
+        "likes": 5,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_43",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "云屿",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "极地我相信已经知道了好多反馈，。其他的也是这样，家具这个样子",
+        "likes": 3,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_44",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "云屿",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "都是最高画质情况下，屏幕亮度最高情况下的样子",
+        "likes": 3,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_45",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "pyq0378",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "更新后发现了一个问题bug，我投喂动物的时候明明喂了食物，为什么食物的数量仍不减少？结果我打开背包后竟然显示的是因食物投喂而减少过后的数量。这个bug我看得必须修复！还有宠物动物穿墙bug，以及之前玩家们所发现的一直到现在未修复的bug，能修复的必须修复！作为一个诚挚的游戏官方至少要做到多倾听并采纳部分玩家的建议同时尊重玩家的意愿吧！",
+        "likes": 3,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_46",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "pyq0378",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "再说官方你们游戏开发商是中国公司，作为中国公司就要对中国玩家好一点！要公正对待！多倾听中国玩家的部分有用的而且有价值的意见并及时采取恰当的措施！建议@心动小镇在事态发展到过于严重到无法挽回的地步前赶紧纠正自己的立场和态度！不要再有这种玩家退游后，官方却“你不玩有的是人玩”这种傲慢的态度了！",
+        "likes": 1,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_47",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "叶",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "心动小镇每个玩家个人主页头像能换自己相册最喜欢的当头像就好了，",
+        "likes": 1,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_48",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "童心未泯，一切皆甜",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "出了这功能，会出现一堆骗子的，比如某些人头像上面一堆数字，写着加企鹅来领永久皮肤，甚至还有人把别人的主页id挂在头像上，大家会去骚扰那个被挂di的人（某超自然就是最好的列子）",
+        "likes": 5,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_49",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "叶",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "@童心未泯，一切皆甜 \n别人主页挂头像上可以让官方设置违规，违规的不允许换少儿不宜头像，不允许挂各种方式骚扰别人的头像，违规就封号一两个月",
+        "likes": 1,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    },
+    {
+      "cie_id": "cie_comment_50",
+      "timestamp": "",
+      "platform": "taptap",
+      "regional_context": {
+        "cluster": "east_asia",
+        "region": "zh-CN",
+        "language": "zh"
+      },
+      "participants": {
+        "author": {
+          "id": "。。。。。",
+          "role": "player"
+        },
+        "respondents": []
+      },
+      "narrative": {
+        "surface_topic": "post_response",
+        "narrative_motif": "unknown",
+        "narrative_stage": "unknown"
+      },
+      "affective_field": {
+        "dominant_emotion": "unknown",
+        "emotional_intensity": 0.5,
+        "toxicity_level": 0.5,
+        "resonance_pattern": "unknown"
+      },
+      "temporal_topology": {
+        "event_phase": "response",
+        "narrative_momentum": "unknown",
+        "intervention_window": "unknown"
+      },
+      "raw_data": {
+        "text": "喂动物有两个BUG：一是食物数量不显示减少，但实际是消耗的；二是喂完动物后音效会丢失，需要打开背包再关闭后，音效就恢复了。",
+        "likes": 4,
+        "parent_id": null,
+        "post_title": "《心动小镇》3月5日停服维护公告"
+      }
+    }
+  ]
+}

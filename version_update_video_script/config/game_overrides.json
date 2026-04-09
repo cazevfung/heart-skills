@@ -1,0 +1,20 @@
+{
+  "afk_journey": {
+    "default_style_id": "casual",
+    "default_structure_id": "standard",
+    "brand_voice": "偏轻松、面向泛用户，避免过于硬核的数值解读",
+    "avoid_topics": []
+  },
+  "naraka_bladepoint": {
+    "default_style_id": "pro_review",
+    "default_structure_id": "standard",
+    "brand_voice": "可带一点竞技/硬核感，平衡与机制可展开说",
+    "avoid_topics": []
+  },
+  "heartopia": {
+    "default_style_id": "casual",
+    "default_structure_id": "standard",
+    "brand_voice": "治愈、休闲向，用词温和",
+    "avoid_topics": []
+  }
+}

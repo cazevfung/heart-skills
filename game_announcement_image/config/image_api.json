@@ -1,0 +1,6 @@
+{
+  "image_api_base_url": "http://127.0.0.1:8088",
+  "models_path": "/models",
+  "generate_path": "/generate",
+  "request_format_note": "具体请求体格式依赖 8088 后端实现（如 ComfyUI、SD WebUI、自研）。建议 body 包含: prompt, width, height, model 或 model_id, 可选 reference_images (base64 或 URL)。对接时可根据实际 API 在此文件或 adapter 中调整。"
+}

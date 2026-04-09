@@ -1,0 +1,58 @@
+{
+  "rules": {
+    "empty_file": {
+      "enabled": true,
+      "threshold_bytes": 0
+    },
+    "empty_arrays": {
+      "enabled": true,
+      "fields": ["items", "videos", "transcripts", "posts", "records"],
+      "min_count": 1
+    },
+    "corrupted_json": {
+      "enabled": true
+    },
+    "game_id_mismatch": {
+      "enabled": true,
+      "check_paths": ["game_id", "items[].game_id", "videos[].game_id"]
+    },
+    "orphan_folders": {
+      "enabled": true,
+      "allowed_prefixes": ["test_", "g_test", "temp_"]
+    },
+    "duplicate_games": {
+      "enabled": true,
+      "merge_strategy": "keep_larger"
+    }
+  },
+  "paths": {
+    "base_dir": "D:\\App Dev\\openclaw-main\\data\\game_data\\games",
+    "registry": "D:\\App Dev\\openclaw-main\\data\\game_data\\game_registry.json"
+  },
+  "game_name_map": {
+    "g_sbgr": "petit_planet",
+    "g_8050d05f": "pokopia",
+    "g_25178f7e": "animal_crossing",
+    "g_ea32bb80": "infinity_nikki",
+    "g_a1b2c3d4": "heartopia",
+    "g_45a53f7c": "tiny_kingdom",
+    "g_stardew": "stardew_valley",
+    "g_03ee7ce5": "disney_dreamlight_valley",
+    "g_4eb0381d": "spiritfarer",
+    "g_91a6e0e6": "cozy_grove",
+    "g_0a9318f7": "my_time_at_portia",
+    "g_3bdaf71b": "torchlight_infinite",
+    "g_ragnarok_m": "ragnarok_m",
+    "g_etheria": "etheria",
+    "g_sos": "story_of_seasons",
+    "g_runefactory": "rune_factory",
+    "g_genshin": "genshin_impact",
+    "g_starrail": "honkai_star_rail",
+    "g_arknights": "arknights",
+    "g_ff14": "final_fantasy_xiv",
+    "g_sims": "sims_mobile",
+    "g_aobi": "aobi_island",
+    "g_taoyuan": "taoyuan",
+    "g_moer": "moles_world"
+  }
+}

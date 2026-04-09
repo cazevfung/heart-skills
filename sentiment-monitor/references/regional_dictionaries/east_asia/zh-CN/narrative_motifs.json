@@ -1,0 +1,85 @@
+{
+  "version": "2026-03-12",
+  "cluster": "east_asia",
+  "region": "zh-CN",
+  "motifs": [
+    {
+      "id": "nationalism",
+      "name": "民族主义",
+      "keywords": ["亲日", "汉奸", "罕见", "崇洋", "区别对待", "小日子", "鬼子"],
+      "weight": 0.9,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "identity_attack",
+      "cross_cluster_equivalents": {
+        "western": "favoritism",
+        "east_asia_ja": "差別"
+      }
+    },
+    {
+      "id": "betrayal_core_players",
+      "name": "背叛核心玩家",
+      "keywords": ["背刺", "辜负", "心寒", "老玩家", "氪金", "核心玩家", "又当又立"],
+      "weight": 0.85,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "moral_judgment",
+      "cross_cluster_equivalents": {
+        "western": "betrayal",
+        "east_asia_ja": "裏切り"
+      }
+    },
+    {
+      "id": "neglect",
+      "name": "官方忽视",
+      "keywords": ["装死", "不理", "不管", "冷处理", "沉默", "无视", "看不见"],
+      "weight": 0.8,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "moral_judgment",
+      "cross_cluster_equivalents": {
+        "western": "ignoring_community",
+        "east_asia_ja": "無視"
+      }
+    },
+    {
+      "id": "commercialization_pressure",
+      "name": "商业化逼氪",
+      "keywords": ["逼氪", "圈钱", "骗氪", "割韭菜", "逼充", "逼课", "paytowin"],
+      "weight": 0.75,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "moral_judgment",
+      "cross_cluster_equivalents": {
+        "western": "predatory_monetization",
+        "east_asia_ja": "課金押し"
+      }
+    },
+    {
+      "id": "technical_debt",
+      "name": "技术债务",
+      "keywords": ["bug", "卡顿", "闪退", "穿模", "修复", "优化", "问题", "错误"],
+      "weight": 0.5,
+      "emotion_polarity": "neutral",
+      "escalation_pattern": "none",
+      "cross_cluster_equivalents": {
+        "western": "technical_issues",
+        "east_asia_ja": "バグ"
+      }
+    },
+    {
+      "id": "secret_nerf",
+      "name": "暗改",
+      "keywords": ["暗改", "偷偷", "偷偷改", "暗削", "暗调", "不公告", "偷偷摸摸"],
+      "weight": 0.85,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "conspiracy",
+      "cross_cluster_equivalents": {
+        "western": "silent_nerf",
+        "east_asia_ja": "こっそり弱体化"
+      }
+    }
+  ],
+  "metadata": {
+    "last_evolved": "2026-03-12T12:00:00Z",
+    "evolution_method": "manual_initial",
+    "confidence_threshold": 0.7,
+    "next_scheduled_evolution": "2026-03-19T12:00:00Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "platform": "bilibili",
+  "phase": "metadata",
+  "keyword": "原神",
+  "fetched_at": "2026-03-18T08:52:03.557826+00:00",
+  "video_count": 3,
+  "videos": [
+    {
+      "bvid": "BV1mnrYBGEVu",
+      "title": "【杂谈】从巅峰到最黑暗的版本，我都经历了什么？",
+      "author": "提瓦特地理",
+      "url": "https://www.bilibili.com/video/BV1mnrYBGEVu",
+      "pubdate": 1768222541,
+      "duration": "19:10"
+    },
+    {
+      "bvid": "BV1iH4NzoERn",
+      "title": "现在回归原神还畅玩吗？刚进游戏就没绷住~",
+      "author": "上官梦怜game",
+      "url": "https://www.bilibili.com/video/BV1iH4NzoERn",
+      "pubdate": 1760230800,
+      "duration": "13:40"
+    },
+    {
+      "bvid": "BV1zVckzqEL2",
+      "title": "原神||吐槽6.4版本，求生欲拉满，但底层代码不行啊",
+      "author": "白羽Baiyuleta",
+      "url": "https://www.bilibili.com/video/BV1zVckzqEL2",
+      "pubdate": 1773316849,
+      "duration": "9:9"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "version": "2026-03-12",
+  "cluster": "western",
+  "region": "en-US",
+  "categories": {
+    "direct_outrage": {
+      "patterns": ["scam", "scamming", "fraud", "rip off", "garbage", "trash", "shit", "fuck", "bullshit"],
+      "severity": "high",
+      "escalation_speed": "fast",
+      "context": "direct outrage"
+    },
+    "sarcasm_criticism": {
+      "patterns": ["great job", "well done", "nice work", "brilliant", "genius", "wow", "amazing"],
+      "severity": "medium",
+      "escalation_speed": "medium",
+      "context": "sarcastic praise",
+      "notes": "Context-dependent: may be genuine praise or heavy sarcasm"
+    },
+    "withdrawal_threat": {
+      "patterns": ["quitting", "uninstalling", "refunding", "chargeback", "done with this game", "never again"],
+      "severity": "high",
+      "escalation_speed": "medium",
+      "context": "withdrawal threat"
+    },
+    "call_to_action": {
+      "patterns": ["boycott", "review bomb", "spread the word", "don't spend", "vote with wallet"],
+      "severity": "critical",
+      "escalation_speed": "fast",
+      "context": "organized resistance"
+    }
+  },
+  "metadata": {
+    "last_evolved": "2026-03-12T12:00:00Z",
+    "evolution_method": "manual_initial",
+    "confidence_threshold": 0.7
+  }
+}

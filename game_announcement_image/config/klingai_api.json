@@ -1,0 +1,35 @@
+{
+  "provider": "klingai",
+  "name": "可灵AI",
+  "api_base_url": "https://api-beijing.klingai.com",
+  "auth_type": "jwt",
+  "access_key": "AQQFYQQyaJEbTGLadeD989fpKRBRYra4",
+  "secret_key": "hnMNJFbFaJMb99EMbFr8aMCeeftn9f9P",
+  "endpoints": {
+    "multi_image2image": "/v1/images/multi-image2image",
+    "query_task": "/v1/images/multi-image2image/{task_id}",
+    "query_task_list": "/v1/images/multi-image2image"
+  },
+  "models": [
+    {
+      "id": "kling-v2",
+      "name": "可灵 V2",
+      "type": "image",
+      "description": "可灵AI图像生成模型V2"
+    },
+    {
+      "id": "kling-v2-1",
+      "name": "可灵 V2-1",
+      "type": "image",
+      "description": "可灵AI图像生成模型V2-1"
+    }
+  ],
+  "default_params": {
+    "multi_image2image": {
+      "model_name": "kling-v2",
+      "n": 1,
+      "aspect_ratio": "16:9"
+    }
+  },
+  "request_format_note": "可灵AI API使用JWT签名认证。多图参考生图接口/multi-image2image支持主体图(1-4张)、场景图、风格图参考。Base64图片不要加data:image前缀。详见: https://app.klingai.com/cn/dev/document-api/apiReference/model/multiImageToImage"
+}

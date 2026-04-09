@@ -1,0 +1,49 @@
+{
+  "version": "2026-03-12",
+  "cluster": "east_asia",
+  "region": "zh-CN",
+  "categories": {
+    "identity_attack": {
+      "patterns": ["汉奸", "精日", "走狗", "罕见", "鬼子", "狗", "贱", "死全家", "焊间", "倭寇", "小鬼子", "小日子"],
+      "severity": "critical",
+      "escalation_speed": "fast",
+      "context": "民族情绪极端化"
+    },
+    "moral_judgment": {
+      "patterns": ["又当又立", "装死", "傲慢", "恶心", "贱", "不要脸", "无耻", "阴", "贱的不行了", "辣鸡"],
+      "severity": "high",
+      "escalation_speed": "medium",
+      "context": "道德审判"
+    },
+    "conspiracy": {
+      "patterns": ["暗改", "偷偷", "试探", "资本", "内幕", "套路", "算计", "偷摸", "背刺", "圈钱"],
+      "severity": "medium",
+      "escalation_speed": "slow",
+      "context": "阴谋论叙事"
+    },
+    "us_vs_them": {
+      "patterns": ["我们玩家", "你们官方", "国内", "国服", "日服", "老外", "自己人", "衣食父母", "鬼子", "日本人"],
+      "severity": "medium",
+      "escalation_speed": "medium",
+      "context": "对立框架"
+    },
+    "withdrawal_threat": {
+      "patterns": ["退游", "卸载", "不玩了", "弃坑", "拜拜", "再见", "退钱", "退款", "退了退了"],
+      "severity": "high",
+      "escalation_speed": "fast",
+      "context": "退出威胁"
+    },
+    "comparison_grievance": {
+      "patterns": ["人家", "一句话", "马上", "立马", "就改", "不改", "不修", "不如", "国内玩家", "日本"],
+      "severity": "high",
+      "escalation_speed": "fast",
+      "context": "对比 grievance（如'人家一句话就改了'）"
+    }
+  },
+  "metadata": {
+    "last_evolved": "2026-03-12T13:10:00Z",
+    "evolution_method": "manual_initial",
+    "confidence_threshold": 0.7,
+    "notes": "根据心动小镇案例扩展了武器化模式词典"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "platform": "youtube",
+  "phase": "metadata",
+  "query": "gaming review",
+  "fetched_at": "2026-03-18T08:47:08.550503+00:00",
+  "video_count": 3,
+  "videos": [
+    {
+      "id": "6cQDQzqwAlE",
+      "title": "This is Why I Like the PS5: 4 Year Review",
+      "channel": "SpawnPoiint",
+      "url": "https://youtube.com/watch?v=6cQDQzqwAlE",
+      "published_at": "",
+      "view_count": 758353,
+      "duration": 1037
+    },
+    {
+      "id": "oe5JV9wdrmQ",
+      "title": "POCO X8 Pro Max Gaming Phone Unboxing + Handcam (120Hz & MAX Graphics)",
+      "channel": "Sisco",
+      "url": "https://youtube.com/watch?v=oe5JV9wdrmQ",
+      "published_at": "",
+      "view_count": 17972,
+      "duration": 506
+    },
+    {
+      "id": "3MVohpYMrbQ",
+      "title": "Gamers Review Spider-Man 2",
+      "channel": "videogamedunkey",
+      "url": "https://youtube.com/watch?v=3MVohpYMrbQ",
+      "published_at": "",
+      "view_count": 3108370,
+      "duration": 395
+    }
+  ]
+}

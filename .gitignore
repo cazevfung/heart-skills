@@ -1,0 +1,8 @@
+# Local browser automation state (do not publish)
+**/xiaohongshu_profile/
+**/__pycache__/
+.venv/
+venv/
+*.pyc
+*.log
+.DS_Store

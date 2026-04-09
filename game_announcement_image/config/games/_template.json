@@ -1,0 +1,46 @@
+{
+  "game_key": "your_game_key",
+  "game_name": "游戏中文名",
+  "game_name_en": "Game English Name",
+  
+  "visual": {
+    "default_style": "announcement_cover",
+    "default_theme": "default",
+    "default_character_mode": "single"
+  },
+  
+  "reference_images": {
+    "ref_file": "refs/your_game_key.txt"
+  },
+  
+  "themes": {
+    "inherit_default": true,
+    "overrides": {},
+    "custom": {
+      "anniversary": {
+        "background": "金色庆典舞台，飘落的彩带和气球",
+        "atmosphere": "喜庆、热闹、感恩、欢乐",
+        "lighting": "温暖的金色庆典灯光",
+        "mood": "周年庆典"
+      }
+    }
+  },
+  
+  "character_modes": {
+    "inherit_default": true,
+    "overrides": {},
+    "custom": {}
+  },
+  
+  "output": {
+    "default_save_dir": "data/game_data/announcement_images/{game_key}",
+    "naming_pattern": "{game_key}_{theme}_{character_mode}_{timestamp}.jpeg"
+  },
+  
+  "prompt_template": {
+    "version": "v3",
+    "custom_template_path": null
+  },
+  
+  "_comment": "1. 复制此文件并重命名为 {game_key}.json  2. 创建 refs/{game_key}.txt 并粘贴参考图URL"
+}

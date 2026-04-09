@@ -1,0 +1,272 @@
+[
+  {
+    "id": "comment_1",
+    "author": "朵朵",
+    "text": "相册里图片收藏个数增加！！！",
+    "timestamp": "2026-02-28T10:00:00Z",
+    "likes": 15,
+    "replies": [],
+    "sentiment": "neutral"
+  },
+  {
+    "id": "comment_2",
+    "author": "凌",
+    "text": "累充物品太少了 没有充值欲望了",
+    "timestamp": "2026-02-28T10:05:00Z",
+    "likes": 9,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_3",
+    "author": "张璃茉",
+    "text": "而且充了好几千送的东西，感觉……不太好",
+    "timestamp": "2026-02-28T10:06:00Z",
+    "likes": 4,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_4",
+    "author": "凌",
+    "text": "以前有发展家说，珍藏照片的数量根本不够，我还没有感觉，现在换完手机后直接崩溃了照片只能珍藏60张",
+    "timestamp": "2026-02-28T10:10:00Z",
+    "likes": 5,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_5",
+    "author": "许夜与许昼",
+    "text": "我这边甚至还莫名其妙出现了照片消失的bug非珍藏照片全无了，可我并没有更换过设备",
+    "timestamp": "2026-02-28T10:15:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_6",
+    "author": "Taily",
+    "text": "现在便利店风格的样板间我还没刷到呢，又上新了，我真笑了。",
+    "timestamp": "2026-02-28T10:20:00Z",
+    "likes": 6,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_7",
+    "author": "灵华",
+    "text": "家具店里的暴率才是真的恶心人每周都是失望而归，而且只要上新了，小号总是比大号更容易刷到新出的系列",
+    "timestamp": "2026-02-28T10:25:00Z",
+    "likes": 2,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_8",
+    "author": "善良银渐层",
+    "text": "仍旧拉完了 只更新单品不更新机制玩法和福利有什么用 只是换汤不换药罢了 上新家具衣服买完又到长草期 已经无力吐槽了",
+    "timestamp": "2026-02-28T10:30:00Z",
+    "likes": 8,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_9",
+    "author": "灵华",
+    "text": "关键是根本都刷新不出来买个屁，家具店每周都是以前的东西，新出的家具少的可怜",
+    "timestamp": "2026-03-01T10:00:00Z",
+    "likes": 2,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_10",
+    "author": "苏子陵与穆凌",
+    "text": "衣服好像还是之前的样式，只是换颜色了，订购卷的爆率能不能提高一下，几百个蛋才爆出几张这很不友好，都没办法买完想要的返场物品",
+    "timestamp": "2026-02-28T10:35:00Z",
+    "likes": 5,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_11",
+    "author": "饼干酱丶",
+    "text": "承重需要再加，装修党还是不够用哈哈哈哈",
+    "timestamp": "2026-02-28T10:40:00Z",
+    "likes": 6,
+    "replies": [],
+    "sentiment": "neutral"
+  },
+  {
+    "id": "comment_12",
+    "author": "凳子齐",
+    "text": "心动还是少了一个(哪怕就一个)核心的、好玩的、能长期玩的玩法。",
+    "timestamp": "2026-02-28T10:45:00Z",
+    "likes": 4,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_13",
+    "author": "安冉",
+    "text": "就很离谱，元宵节啥福利都没有",
+    "timestamp": "2026-03-03T10:00:00Z",
+    "likes": 4,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_14",
+    "author": "玄州",
+    "text": "元宵节你是一个东西都不返场",
+    "timestamp": "2026-03-03T10:05:00Z",
+    "likes": 4,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_15",
+    "author": "Fish",
+    "text": "唯一的乐趣就是盖房子，抽建材你每次都给我大保底，大保底前给的全是重复的，不想说什么了",
+    "timestamp": "2026-03-01T10:00:00Z",
+    "likes": 3,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_16",
+    "author": "青鹧",
+    "text": "可以修修bug吗？经常玩着玩着发现只能走，另一面点不动，后面发现只能动一面，没有解决办法，只能重新登录，一天能触发好几次这个bug",
+    "timestamp": "2026-03-01T10:05:00Z",
+    "likes": 3,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_17",
+    "author": "肝起来到3点",
+    "text": "研究时间又臭又长真的不优化一下？那破染色有啥用到底",
+    "timestamp": "2026-03-03T10:00:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_18",
+    "author": "备忘录的你",
+    "text": "能不能给这些猫或者小狗优化一下，我真的受不了了",
+    "timestamp": "2026-03-03T10:05:00Z",
+    "likes": 2,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_19",
+    "author": "坠",
+    "text": "官方能不能改一下你的蓝钻奖池！！！！！！每次都大保底想要的一个都没抽到，不想要的来一大堆",
+    "timestamp": "2026-03-01T10:10:00Z",
+    "likes": 2,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_20",
+    "author": "Zzzzbl",
+    "text": "抽服装 家具的资源只能充钱来获得 为什么不在每日 每周任务或者活动里多加一些抽卡资源的产出呢 本身就是8＋游戏 吃相还这么难看",
+    "timestamp": "2026-03-04T10:00:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_21",
+    "author": "陌",
+    "text": "蓝钻给的时候不多，奖池的时候要的又多，那你那爆率那么低，就这么缺钱",
+    "timestamp": "2026-03-04T10:05:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_22",
+    "author": "胖胖的女孩子",
+    "text": "喵喵，我都氪1万5了，为什么游戏不给我发邮件，有暗改抬价了吗",
+    "timestamp": "2026-03-01T10:15:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_23",
+    "author": "日进斗金",
+    "text": "这个新潮流季的时装实在是欣赏不来，这女装实在有点让人难以下手啊！能不能不要再出斧镐的皮肤了？出一点钓鱼杆、捕虫网的皮肤不好吗？",
+    "timestamp": "2026-03-01T10:20:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_24",
+    "author": "game！",
+    "text": "暴率怎么那么低呀？我真的服了，抽60次，一个彩都没有",
+    "timestamp": "2026-03-01T10:25:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_25",
+    "author": "童心未泯，一切皆甜",
+    "text": "建议把宠物猫优化一下，我一做食物，这猫就卡住我的角色位置，我不做食物的时候，这猫自己离开，结果我的食物糊了",
+    "timestamp": "2026-03-01T10:30:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_26",
+    "author": "浅夏",
+    "text": "我的新展演建材爆率超低呀，我去，80了才出了一个彩，80抽出一个彩，还没抽到自己想要的，我真的哎呀。一个彩怎么那么难抽。重复率好高啊",
+    "timestamp": "2026-03-01T10:35:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_27",
+    "author": "丸辣",
+    "text": "建造房子重量能在增加一下吗？总是满",
+    "timestamp": "2026-02-28T10:50:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "neutral"
+  },
+  {
+    "id": "comment_28",
+    "author": "NUOTATO",
+    "text": "更新一堆废物东西，继续摆吧",
+    "timestamp": "2026-02-28T10:55:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_29",
+    "author": "暮雪宝宝",
+    "text": "我用我用原来的TapTap号登录，发现不是我的号，之前充了几十块钱都没了，变成萌新号了，我哭死，都二十几级了",
+    "timestamp": "2026-01-21T10:00:00Z",
+    "likes": 1,
+    "replies": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "comment_30",
+    "author": "雁初",
+    "text": "为什么我没有冬日季筹备任务",
+    "timestamp": "2026-01-24T10:00:00Z",
+    "likes": 4,
+    "replies": [],
+    "sentiment": "neutral"
+  }
+]

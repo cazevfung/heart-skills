@@ -1,0 +1,25 @@
+{
+  "provider": "volcengine",
+  "name": "火山引擎方舟",
+  "api_base_url": "https://ark.cn-beijing.volces.com/api/v3",
+  "auth_type": "bearer",
+  "api_key": "d3be1711-5846-4fee-98c2-2e559448269c",
+  "endpoints": {
+    "chat_completions": "/chat/completions",
+    "images_generations": "/images/generations"
+  },
+  "models": [
+    {
+      "id": "doubao-seedream-4-5-251128",
+      "name": "Doubao-Seedream-4.5",
+      "type": "image",
+      "description": "火山引擎Doubao-Seedream-4.5图像生成模型"
+    }
+  ],
+  "default_params": {
+    "model": "doubao-seedream-4-5-251128",
+    "n": 1,
+    "size": "1024x1024"
+  },
+  "request_format_note": "火山引擎方舟API使用OpenAI兼容格式，通过Bearer Token认证。图像生成使用/images/generations端点，支持size参数控制输出尺寸。注意：需要在火山方舟控制台开通模型服务。详见: https://www.volcengine.com/docs/82379/1399008"
+}

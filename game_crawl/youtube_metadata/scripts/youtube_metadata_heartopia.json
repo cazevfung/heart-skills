@@ -1,0 +1,461 @@
+{
+  "platform": "youtube",
+  "game_id": "g_a1b2c3d4",
+  "data_type": "metadata",
+  "phase": "metadata",
+  "query": "Heartopia",
+  "fetched_at": "2026-04-01T11:13:28.907403+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "U5ljHEJHNpg",
+      "title": "This Cozy Game Just Got More Controversial | Heartopia Racism Situation",
+      "channel": "Punkshroom",
+      "url": "https://youtube.com/watch?v=U5ljHEJHNpg",
+      "view_count": 225312,
+      "duration": 936,
+      "published_at": "2026-03-07T00:00:00+00:00"
+    },
+    {
+      "id": "KquXHemHh7U",
+      "title": "10 Things I WISH I KNEW SOONER in Heartopia! Secrets, Tips & Tricks!",
+      "channel": "cozy cyber",
+      "url": "https://youtube.com/watch?v=KquXHemHh7U",
+      "view_count": 108694,
+      "duration": 607,
+      "published_at": "2026-01-29T00:00:00+00:00"
+    },
+    {
+      "id": "OmP4Xm5r7R4",
+      "title": "Heartopia | FREE TO PLAY GLOWING TREE in Heartopia !? #heartopia #howto #aesthetic #cozy ",
+      "channel": "HeyitsmeCAP!",
+      "url": "https://youtube.com/watch?v=OmP4Xm5r7R4",
+      "view_count": 4231,
+      "duration": 669,
+      "published_at": "2026-03-30T00:00:00+00:00"
+    },
+    {
+      "id": "ZWiPpn_dY5w",
+      "title": "Co zachować, a co sprzedać w Heartopii (nie popełnij tych błędów!)",
+      "channel": "AlphaGalaxyy",
+      "url": "https://youtube.com/watch?v=ZWiPpn_dY5w",
+      "view_count": 21460,
+      "duration": 842,
+      "published_at": "2026-03-05T00:00:00+00:00"
+    },
+    {
+      "id": "SbvAKxLPXOM",
+      "title": "we need to talk about heartopia",
+      "channel": "simsigga",
+      "url": "https://youtube.com/watch?v=SbvAKxLPXOM",
+      "view_count": 73317,
+      "duration": 754,
+      "published_at": "2026-03-11T00:00:00+00:00"
+    },
+    {
+      "id": "2IcC4V5QqSA",
+      "title": "Why I'm Stepping Away From Heartopia (And Why Players Are Upset)",
+      "channel": "Yans",
+      "url": "https://youtube.com/watch?v=2IcC4V5QqSA",
+      "view_count": 25200,
+      "duration": 430,
+      "published_at": "2026-03-06T00:00:00+00:00"
+    },
+    {
+      "id": "mhV5elC3RaM",
+      "title": "I Toured The Most MIND BLOWING Houses In Heartopia!",
+      "channel": "fantayzia",
+      "url": "https://youtube.com/watch?v=mhV5elC3RaM",
+      "view_count": 15343,
+      "duration": 1148,
+      "published_at": "2026-02-24T00:00:00+00:00"
+    },
+    {
+      "id": "jLmz5vCtANA",
+      "title": "Small Cozy Japanese Style House 🌸 || Heartopia",
+      "channel": "Akari",
+      "url": "https://youtube.com/watch?v=jLmz5vCtANA",
+      "view_count": 35054,
+      "duration": 910,
+      "published_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+      "id": "mTrCI3rtHO0",
+      "title": "10 Pro Building Tips YOU NEED TO KNOW in Heartopia! Build Your Dream House!",
+      "channel": "cozy cyber",
+      "url": "https://youtube.com/watch?v=mTrCI3rtHO0",
+      "view_count": 115656,
+      "duration": 785,
+      "published_at": "2026-01-22T00:00:00+00:00"
+    },
+    {
+      "id": "rT1ZtsSkiw0",
+      "title": "I'm OBSESSED with this game!!⭐Heartopia",
+      "channel": "froggycrossing",
+      "url": "https://youtube.com/watch?v=rT1ZtsSkiw0",
+      "view_count": 47836,
+      "duration": 575,
+      "published_at": "2025-11-13T00:00:00+00:00"
+    },
+    {
+      "id": "2zyvS7E2M-4",
+      "title": "Heartopia: How to Make Money FAST",
+      "channel": "IGN",
+      "url": "https://youtube.com/watch?v=2zyvS7E2M-4",
+      "view_count": 42627,
+      "duration": 570,
+      "published_at": "2026-01-23T00:00:00+00:00"
+    },
+    {
+      "id": "L7SnHASyw4I",
+      "title": "Heartopia - ads vs gameplay | Badvertising",
+      "channel": "WalrusLimePie",
+      "url": "https://youtube.com/watch?v=L7SnHASyw4I",
+      "view_count": 15503,
+      "duration": 1117,
+      "published_at": "2026-01-18T00:00:00+00:00"
+    },
+    {
+      "id": "bczje1nu4F0",
+      "title": "Zanim zagrasz w nowe wydarzenie Resonance… Obejrzyj to | Wydarzenie Pleasant Goat | Heartopia",
+      "channel": "Serrohverse",
+      "url": "https://youtube.com/watch?v=bczje1nu4F0",
+      "view_count": 11952,
+      "duration": 683,
+      "published_at": "2026-03-27T00:00:00+00:00"
+    },
+    {
+      "id": "UY_37OIGhhk",
+      "title": "10 Easy GLITCH FREE Builds in Heartopia! Building Tutorials & DIYs",
+      "channel": "cozy cyber",
+      "url": "https://youtube.com/watch?v=UY_37OIGhhk",
+      "view_count": 26162,
+      "duration": 620,
+      "published_at": "2026-02-25T00:00:00+00:00"
+    },
+    {
+      "id": "2tVbj5ETyBU",
+      "title": "ZDOBĄDŹ 40 000 ŻETONÓW DZIENNIE DZIĘKI TEJ RUTYNIE! | Heartopia Winter Frost ⛄",
+      "channel": "Shion",
+      "url": "https://youtube.com/watch?v=2tVbj5ETyBU",
+      "view_count": 59957,
+      "duration": 736,
+      "published_at": "2026-02-04T00:00:00+00:00"
+    },
+    {
+      "id": "CcWod7SS16E",
+      "title": "ZARABIAJ SZYBKO w Heartopii! Jak zarabiać WALUTĘ! Poradnik",
+      "channel": "cozy cyber",
+      "url": "https://youtube.com/watch?v=CcWod7SS16E",
+      "view_count": 68562,
+      "duration": 563,
+      "published_at": "2026-01-11T00:00:00+00:00"
+    },
+    {
+      "id": "qcni8drWQbE",
+      "title": "We Built Our DREAM HOUSE In HEARTOPIA!",
+      "channel": "",
+      "url": "https://youtube.com/watch?v=qcni8drWQbE",
+      "view_count": 418627,
+      "duration": 977,
+      "published_at": "2026-02-21T00:00:00+00:00"
+    },
+    {
+      "id": "LXx1KzhJD7Y",
+      "title": "👀Grałem ponad 15 godzin w Heartopia... i mam PRZEMYŚLENIA.",
+      "channel": "Min's Meadow",
+      "url": "https://youtube.com/watch?v=LXx1KzhJD7Y",
+      "view_count": 52878,
+      "duration": 1172,
+      "published_at": "2026-01-16T00:00:00+00:00"
+    },
+    {
+      "id": "1h6kd1SwCQk",
+      "title": "I played Heartopia so you don't have to",
+      "channel": "koramora",
+      "url": "https://youtube.com/watch?v=1h6kd1SwCQk",
+      "view_count": 8644,
+      "duration": 449,
+      "published_at": "2026-02-23T00:00:00+00:00"
+    },
+    {
+      "id": "8mlxSqEeJio",
+      "title": "Obejrzyj, ZANIM ADOPTUJESZ ZWIERZĘ w Heartopii! Przewodnik po opiece nad zwierzętami i rasach",
+      "channel": "cozy cyber",
+      "url": "https://youtube.com/watch?v=8mlxSqEeJio",
+      "view_count": 80381,
+      "duration": 643,
+      "published_at": "2026-01-13T00:00:00+00:00"
+    },
+    {
+      "id": "c7popolzKJo",
+      "title": "I Tested Every Recipe… This Is the BEST Way to Make Money in Heartopia!",
+      "channel": "AlphaGalaxyy",
+      "url": "https://youtube.com/watch?v=c7popolzKJo",
+      "view_count": 63089,
+      "duration": 747,
+      "published_at": "2026-01-22T00:00:00+00:00"
+    },
+    {
+      "id": "omwCOphKsR8",
+      "title": "Dreamlight Festival COMPLETE GUIDE + Bug & Fish Locations | Heartopia",
+      "channel": "Serrohverse",
+      "url": "https://youtube.com/watch?v=omwCOphKsR8",
+      "view_count": 27662,
+      "duration": 1047,
+      "published_at": "2026-03-21T00:00:00+00:00"
+    },
+    {
+      "id": "F2pl_zhUl4o",
+      "title": "20+ Tips I Wish I Knew Sooner in Heartopia",
+      "channel": "Strawberry Milk Farm",
+      "url": "https://youtube.com/watch?v=F2pl_zhUl4o",
+      "view_count": 29886,
+      "duration": 520,
+      "published_at": "2026-01-13T00:00:00+00:00"
+    },
+    {
+      "id": "JZFIHCu9TDE",
+      "title": "🌸🐱 NEW Heartopia Banners Are HERE! Blossom Encounter & Meow Adventure! Gacha Pulls✨",
+      "channel": "Erose",
+      "url": "https://youtube.com/watch?v=JZFIHCu9TDE",
+      "view_count": 3707,
+      "duration": 935,
+      "published_at": "2026-03-25T00:00:00+00:00"
+    },
+    {
+      "id": "p8AybpTEEAY",
+      "title": "Heartopia COULD be the next BIG Cozy Game!! HONEST Thoughts So Far...",
+      "channel": "NintenTalk",
+      "url": "https://youtube.com/watch?v=p8AybpTEEAY",
+      "view_count": 16329,
+      "duration": 630,
+      "published_at": "2025-11-11T00:00:00+00:00"
+    },
+    {
+      "id": "QJn-u60x9Q8",
+      "title": "WE MOVED TOGETHER to Heartopia!",
+      "channel": "Belala",
+      "url": "https://youtube.com/watch?v=QJn-u60x9Q8",
+      "view_count": 234269,
+      "duration": 645,
+      "published_at": "2026-02-15T00:00:00+00:00"
+    },
+    {
+      "id": "ELNzkeOsmCA",
+      "title": "⋆.˚ 🧖🏼‍♀️My Morning Routine w/ Yum & West 🐶🐈‍⬛ │ HEARTOPIA RP",
+      "channel": "RoseVeil𐙚♡",
+      "url": "https://youtube.com/watch?v=ELNzkeOsmCA",
+      "view_count": 110994,
+      "duration": 285,
+      "published_at": "2026-01-19T00:00:00+00:00"
+    },
+    {
+      "id": "2lg4jee77i8",
+      "title": "HOW TO MAKE Custom Clothes & Furniture in Heartopia! Sanrio Kuromi Tutorial & PAINTING TIPS",
+      "channel": "cozy cyber",
+      "url": "https://youtube.com/watch?v=2lg4jee77i8",
+      "view_count": 126699,
+      "duration": 592,
+      "published_at": "2026-01-15T00:00:00+00:00"
+    },
+    {
+      "id": "niPf6wemdIg",
+      "title": "I WILL NO LONGER SUPPORT HEARTOPIA",
+      "channel": "Tanniegames",
+      "url": "https://youtube.com/watch?v=niPf6wemdIg",
+      "view_count": 8143,
+      "duration": 404,
+      "published_at": "2026-03-07T00:00:00+00:00"
+    },
+    {
+      "id": "3VH9CKPh-lQ",
+      "title": "Heartopia: Meteor Shower Event! Fastest Route For ALL Shards! (March 6th)💫",
+      "channel": "Emiiary",
+      "url": "https://youtube.com/watch?v=3VH9CKPh-lQ",
+      "view_count": 3106,
+      "duration": 400,
+      "published_at": "2026-03-06T00:00:00+00:00"
+    },
+    {
+      "id": "rBEhFC3LPM4",
+      "title": "10 Things You MUST Do Every Day in Heartopia",
+      "channel": "Planet Moonstar",
+      "url": "https://youtube.com/watch?v=rBEhFC3LPM4",
+      "view_count": 7545,
+      "duration": 618,
+      "published_at": "2026-01-10T00:00:00+00:00"
+    },
+    {
+      "id": "eHXfif3skLU",
+      "title": "Heartopia x Pleasant Goat Collab Guide! 🐺✨ CN Trailer Breakdown & Details!",
+      "channel": "Emiiary",
+      "url": "https://youtube.com/watch?v=eHXfif3skLU",
+      "view_count": 6211,
+      "duration": 505,
+      "published_at": "2026-03-07T00:00:00+00:00"
+    },
+    {
+      "id": "tvy0pK3V-tM",
+      "title": "Complete Guide for Cinematics Event in Heartopia: Special animals + Flower  breeding and more",
+      "channel": "Strawberry Milk Farm",
+      "url": "https://youtube.com/watch?v=tvy0pK3V-tM",
+      "view_count": 9159,
+      "duration": 483,
+      "published_at": "2026-03-21T00:00:00+00:00"
+    },
+    {
+      "id": "MJ4kYfiuuRA",
+      "title": "⋆.˚ 💼After Work Night Routine - Grocery + Furniture Shopping🛒│ HEARTOPIA RP",
+      "channel": "RoseVeil𐙚♡",
+      "url": "https://youtube.com/watch?v=MJ4kYfiuuRA",
+      "view_count": 34211,
+      "duration": 432,
+      "published_at": "2026-02-06T00:00:00+00:00"
+    },
+    {
+      "id": "GpNS9vzUtq4",
+      "title": "Heartopia - Timeless Encounter (Pink Signal) Pogo Stick",
+      "channel": "mabiBOBO",
+      "url": "https://youtube.com/watch?v=GpNS9vzUtq4",
+      "view_count": 878,
+      "duration": 586,
+      "published_at": "2026-03-28T00:00:00+00:00"
+    },
+    {
+      "id": "gecSNH3mIeo",
+      "title": "I Finally Unlocked My OWN ISLAND 😭✨ | Heartopia",
+      "channel": "fantayzia",
+      "url": "https://youtube.com/watch?v=gecSNH3mIeo",
+      "view_count": 4659,
+      "duration": 650,
+      "published_at": "2026-02-19T00:00:00+00:00"
+    },
+    {
+      "id": "zFkhEgPEjT4",
+      "title": "💖30 ESSENTIAL Tips for Heartopia Beginners",
+      "channel": "Planet Moonstar",
+      "url": "https://youtube.com/watch?v=zFkhEgPEjT4",
+      "view_count": 5628,
+      "duration": 562,
+      "published_at": "2026-01-08T00:00:00+00:00"
+    },
+    {
+      "id": "UqgJku8cBQ4",
+      "title": "The Donation Box Has a SECRET Limited-Time Reward! | Heartopia",
+      "channel": "Serrohverse",
+      "url": "https://youtube.com/watch?v=UqgJku8cBQ4",
+      "view_count": 9004,
+      "duration": 348,
+      "published_at": "2026-02-26T00:00:00+00:00"
+    },
+    {
+      "id": "Upv5tePbPAY",
+      "title": "Goat and Wolf Event Guide: Free Pass + Actor Doves + Emotes Locations in Heartopia",
+      "channel": "Strawberry Milk Farm",
+      "url": "https://youtube.com/watch?v=Upv5tePbPAY",
+      "view_count": 8267,
+      "duration": 284,
+      "published_at": "2026-03-27T00:00:00+00:00"
+    },
+    {
+      "id": "RQUpjJLOxPw",
+      "title": "RAINBOW DAY GUIDE 🌈 All Fish, Bugs & Birds! Doris Location! Heartopia Weather Events",
+      "channel": "cozy cyber",
+      "url": "https://youtube.com/watch?v=RQUpjJLOxPw",
+      "view_count": 36497,
+      "duration": 482,
+      "published_at": "2026-01-26T00:00:00+00:00"
+    },
+    {
+      "id": "Uv4OexV4ZE4",
+      "title": "This Might Be the NEXT Gilded Banner! (Alice in Wonderland + Easter Event) | Heartopia",
+      "channel": "Serrohverse",
+      "url": "https://youtube.com/watch?v=Uv4OexV4ZE4",
+      "view_count": 7006,
+      "duration": 725,
+      "published_at": "2026-03-25T00:00:00+00:00"
+    },
+    {
+      "id": "LXx1KzhJD7Y",
+      "title": "👀I Played 15+ Hours of Heartopia... & I Have THOUGHTS.",
+      "channel": "Min's Meadow",
+      "url": "https://youtube.com/watch?v=LXx1KzhJD7Y",
+      "view_count": 52877,
+      "duration": 1172,
+      "published_at": "2026-01-16T00:00:00+00:00"
+    },
+    {
+      "id": "sQCBmjcBgww",
+      "title": "A CRITIQUE of how this cozy game fails",
+      "channel": "The Rhein A",
+      "url": "https://youtube.com/watch?v=sQCBmjcBgww",
+      "view_count": 8682,
+      "duration": 1000,
+      "published_at": "2026-03-07T00:00:00+00:00"
+    },
+    {
+      "id": "67ia8nwU1M4",
+      "title": "NEW Heartopia × My Little Pony Collaboration Details!",
+      "channel": "cozy cyber",
+      "url": "https://youtube.com/watch?v=67ia8nwU1M4",
+      "view_count": 103361,
+      "duration": 581,
+      "published_at": "2026-01-17T00:00:00+00:00"
+    },
+    {
+      "id": "2tVbj5ETyBU",
+      "title": "GET 40K TOKENS a Day With This ROUTINE! | Heartopia Winter Frost ⛄",
+      "channel": "Shion",
+      "url": "https://youtube.com/watch?v=2tVbj5ETyBU",
+      "view_count": 59954,
+      "duration": 736,
+      "published_at": "2026-02-04T00:00:00+00:00"
+    },
+    {
+      "id": "gUrW68LW_mc",
+      "title": "(March 21-27) All 15 Hidden Pink Bubbles | Heartopia",
+      "channel": "Serrohverse",
+      "url": "https://youtube.com/watch?v=gUrW68LW_mc",
+      "view_count": 3078,
+      "duration": 360,
+      "published_at": "2026-03-23T00:00:00+00:00"
+    },
+    {
+      "id": "XzFOr8OeUUE",
+      "title": "I HAD To BUILD \"Lana\" A NEW SALON & House *QUICK* In Heartopia!",
+      "channel": "callmehhaley",
+      "url": "https://youtube.com/watch?v=XzFOr8OeUUE",
+      "view_count": 81340,
+      "duration": 846,
+      "published_at": "2026-01-31T00:00:00+00:00"
+    },
+    {
+      "id": "ArTZq2009EQ",
+      "title": "everything you need to know about the winter frost event in heartopia!❄️💫",
+      "channel": "Bug",
+      "url": "https://youtube.com/watch?v=ArTZq2009EQ",
+      "view_count": 8685,
+      "duration": 814,
+      "published_at": "2026-01-25T00:00:00+00:00"
+    },
+    {
+      "id": "weSf6CrpD0g",
+      "title": "Heartopia 💗 Tour of My New Cozy House 🎀 9 plots",
+      "channel": "Your Average Noob",
+      "url": "https://youtube.com/watch?v=weSf6CrpD0g",
+      "view_count": 41406,
+      "duration": 308,
+      "published_at": "2026-02-11T00:00:00+00:00"
+    },
+    {
+      "id": "QrC_kOIAyZ8",
+      "title": "How to Easily Crossbreed Flowers in Heartopia (Beginner-Friendly Guide)",
+      "channel": "AlphaGalaxyy",
+      "url": "https://youtube.com/watch?v=QrC_kOIAyZ8",
+      "view_count": 16768,
+      "duration": 746,
+      "published_at": "2026-02-24T00:00:00+00:00"
+    }
+  ]
+}

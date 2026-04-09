@@ -1,0 +1,59 @@
+{
+  "_comment": "心动小镇专属语料库 - 随内容创作持续更新",
+  "version": "1.0.0",
+  "last_updated": "2026-04-08",
+  
+  "host_characters": {
+    "primary": "喵喵",
+    "secondary": "巴布",
+    "usage": "开场白用 primary，可提及 secondary"
+  },
+  
+  "player_term": "发展家",
+  "player_term_plural": "发展家们",
+  
+  "fixed_events": {
+    "河狸杯": {
+      "full_name": "心动小镇首届 \"河狸杯\" 建造节",
+      "date": "4月25日",
+      "theme": "童话仙境"
+    },
+    "建造节": {
+      "description": "玩家组队建造比赛活动",
+      "mechanics": ["多人同时建造", "家具建材共享", "非创造道具不限数量"]
+    }
+  },
+  
+  "common_phrases": {
+    "greeting": "{player_term_plural}好呀~",
+    "greeting_with_co_host": "{secondary}，{player_term_plural}好呀~",
+    "transition_to_qa": "接下来是今天的喵答Q&A环节~",
+    "transition_to_qa_alt": "我们挑了几个大家最近问得比较多的问题聊一聊——",
+    "ending": "提前祝各位{player_term_plural}假期快乐，拜拜～👋✨",
+    "cta_signup": "记得{date}来报名 \"{event}\" 哦！",
+    "preview_next": "下个月还有一大波更新内容在等着大家，可以小小期待一下～"
+  },
+  
+  "emphasis_patterns": [
+    "——而且",
+    "对了，",
+    "重点是，",
+    "要注意的是，",
+    "而且",
+    "另外"
+  ],
+  
+  "placeholder_markers": [
+    "(待补充)",
+    "(延展内容待补充)",
+    "(机制细节待补充)",
+    "(口径待确认)"
+  ],
+  
+  "qa_response_templates": {
+    "acknowledge": "了解！{player_term_plural}的诉求我们已收到",
+    "planning": "具体方案还在规划中，如有进展会通过公告形式告诉大家",
+    "observing": "我们会观察功能是否稳定",
+    "confirm_date": "{date}已经上线啦"
+  }
+}

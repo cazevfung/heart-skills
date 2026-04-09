@@ -1,0 +1,8 @@
+# 在此文件的每一行粘贴一个参考图URL
+# 空行和以 # 开头的行会被忽略
+# 
+# 示例：
+# https://example.com/ref1.jpg
+# https://example.com/ref2.png
+# 
+# 建议提供 4-10 张风格统一的参考图

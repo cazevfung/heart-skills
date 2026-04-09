@@ -1,0 +1,86 @@
+{
+  "version": "2026-03-12",
+  "cluster": "western",
+  "region": "en-US",
+  "motifs": [
+    {
+      "id": "predatory_monetization",
+      "name": "Predatory Monetization",
+      "keywords": ["predatory", "greedy", "cash grab", "money grab", "whale hunting", "p2w", "pay to win", "predatory practices"],
+      "weight": 0.85,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "moral_judgment",
+      "cross_cluster_equivalents": {
+        "east_asia_zh": "商业化逼氪",
+        "east_asia_ja": "課金問題"
+      }
+    },
+    {
+      "id": "broken_promises",
+      "name": "Broken Promises",
+      "keywords": ["promised", "promise broken", "lied", "false advertising", "misleading", "deceptive", "scam"],
+      "weight": 0.9,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "moral_judgment",
+      "cross_cluster_equivalents": {
+        "east_asia_zh": "承诺不履行",
+        "east_asia_ja": "約束違反"
+      }
+    },
+    {
+      "id": "poor_communication",
+      "name": "Poor Communication",
+      "keywords": ["radio silence", "ghosting", "ignoring", "no communication", "lack of transparency", "silent treatment"],
+      "weight": 0.8,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "moral_judgment",
+      "cross_cluster_equivalents": {
+        "east_asia_zh": "官方忽视",
+        "east_asia_ja": "無視"
+      }
+    },
+    {
+      "id": "favoritism",
+      "name": "Favoritism",
+      "keywords": ["favoritism", "bias", "unfair", "preferential", "discrimination", "double standard"],
+      "weight": 0.85,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "identity_attack",
+      "cross_cluster_equivalents": {
+        "east_asia_zh": "区别对待",
+        "east_asia_ja": "差別"
+      }
+    },
+    {
+      "id": "technical_issues",
+      "name": "Technical Issues",
+      "keywords": ["bug", "glitch", "crash", "lag", "broken", "unplayable", "fix this", "optimize"],
+      "weight": 0.5,
+      "emotion_polarity": "neutral",
+      "escalation_pattern": "none",
+      "cross_cluster_equivalents": {
+        "east_asia_zh": "技术问题",
+        "east_asia_ja": "技術的問題"
+      }
+    },
+    {
+      "id": "betrayal",
+      "name": "Betrayal of Players",
+      "keywords": ["betrayal", "betrayed", "backstab", "screwed over", "scammed", "ripped off", "exploited"],
+      "weight": 0.85,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "moral_judgment",
+      "cross_cluster_equivalents": {
+        "east_asia_zh": "背叛核心玩家",
+        "east_asia_ja": "裏切り"
+      }
+    }
+  ],
+  "metadata": {
+    "last_evolved": "2026-03-12T12:00:00Z",
+    "evolution_method": "manual_initial",
+    "confidence_threshold": 0.7,
+    "notes": "Western players tend to be more direct and focus on fairness/communication",
+    "next_scheduled_evolution": "2026-03-19T12:00:00Z"
+  }
+}

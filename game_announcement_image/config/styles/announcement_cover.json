@@ -1,0 +1,61 @@
+{
+  "style_id": "announcement_cover",
+  "name_zh": "公告封面",
+  "name_en": "Announcement Cover",
+  "description": "专为游戏公告/公测/版本更新设计的封面图风格，强调信息清晰、视觉温馨、品牌一致",
+  
+  "applicable_games": ["*"],
+  "applicable_types": ["maintenance", "event", "version", "general"],
+  
+  "visual": {
+    "aspect_ratio": "16:9",
+    "art_style": "手绘插画风，色彩明亮柔和，带一点日系/治愈系游戏UI感",
+    "color_tone": "高明度、低饱和度，暖色调为主",
+    "line_style": "圆润柔和，无尖锐棱角"
+  },
+  
+  "layout": {
+    "description": "左上角Logo区，中左部文字区，右侧主体焦点",
+    "logo_area": "左上角",
+    "text_area": "中左部，主标题占屏比20%以上",
+    "focus_area": "右侧中景"
+  },
+  
+  "prompt_template": {
+    "version": "v3",
+    "structure": [
+      "【固定规范】画面风格、布局、技术要求",
+      "【主题内容】主题氛围、光线",
+      "【主体元素】前景角色、中景场景、背景",
+      "【文字区域】主标题、副标题",
+      "【整体氛围】"
+    ],
+    "template": "一张温馨可爱的《{game_name}》更新公告海报，16:9。\n\n【固定规范】\n画面风格：{art_style}\n画面布局：左上角放置游戏Logo区域，中左部预留文字区域，视觉焦点在右边、标题在左边。\n技术要求：信息层级清晰易读，色彩搭配和谐，符合治愈系游戏调性，画面构图平衡。\n\n【主题内容】\n主题氛围：{mood}\n光线效果：{lighting}\n\n主体元素：\n- 前景（画面核心）：{count_desc}，{character_desc}，{interaction}，{action_desc}，表情{expression}。{area_ratio}，角色与参考图中风格保持高度一致。角色要画得大一些，是画面的主要视觉焦点。\n- 中景：卡通风格的{scene_elements}，有\"{game_name}\"的{atmosphere}生活感\n- 背景：{background}\n\n文字区域：\n- 主标题：\"{main_title}\"（醒目字体，左上角区域）\n- 副标题：\"{sub_title}\"（清晰字体，主标题下方）\n\n整体氛围：{atmosphere}"
+  },
+  
+  "character_modes": {
+    "single": {
+      "count_desc": "一个可爱的卡通角色",
+      "area_ratio": "角色形象要饱满突出，占屏幕25%以上",
+      "interaction": "单独展示",
+      "action_style": "姿态自然大方"
+    },
+    "double": {
+      "count_desc": "两个可爱的卡通角色",
+      "area_ratio": "两个角色都要饱满突出，合计占屏幕40%以上，是画面的主要视觉焦点",
+      "interaction": "一起互动展示",
+      "action_style": "动作夸张有张力，姿态生动活泼"
+    },
+    "multiple": {
+      "count_desc": "多个可爱的卡通角色",
+      "area_ratio": "角色们饱满突出，合计占屏幕45%以上，是画面的主要视觉焦点",
+      "interaction": "热闹地一起展示",
+      "action_style": "动作夸张有张力，姿态生动活泼"
+    }
+  },
+  
+  "reference_images": {
+    "description": "手绘插画风，色彩明亮柔和，日系游戏UI感",
+    "example_urls": []
+  }
+}

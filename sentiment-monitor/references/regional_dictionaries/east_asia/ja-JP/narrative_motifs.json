@@ -1,0 +1,74 @@
+{
+  "version": "2026-03-12",
+  "cluster": "east_asia",
+  "region": "ja-JP",
+  "motifs": [
+    {
+      "id": "service_attitude",
+      "name": "サービス精神",
+      "keywords": ["サービス", "対応", "姿勢", "誠意", "丁寧", "粗末", "雑"],
+      "weight": 0.85,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "moral_judgment",
+      "cross_cluster_equivalents": {
+        "western": "customer_service",
+        "east_asia_zh": "服务态度"
+      }
+    },
+    {
+      "id": "promise_breach",
+      "name": "約束違反",
+      "keywords": ["約束", "違反", "守らない", "破った", "嘘", "詐欺", "信じられない"],
+      "weight": 0.9,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "moral_judgment",
+      "cross_cluster_equivalents": {
+        "western": "promise_broken",
+        "east_asia_zh": "承诺不履行"
+      }
+    },
+    {
+      "id": "discrimination",
+      "name": "差別",
+      "keywords": ["差別", "不平等", "不公平", "優遇", "差", "格差"],
+      "weight": 0.8,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "identity_attack",
+      "cross_cluster_equivalents": {
+        "western": "discrimination",
+        "east_asia_zh": "区别对待"
+      }
+    },
+    {
+      "id": "technical_issues",
+      "name": "技術的問題",
+      "keywords": ["バグ", "不具合", "エラー", "クラッシュ", "重い", "遅い", "直して"],
+      "weight": 0.5,
+      "emotion_polarity": "neutral",
+      "escalation_pattern": "none",
+      "cross_cluster_equivalents": {
+        "western": "technical_issues",
+        "east_asia_zh": "技术问题"
+      }
+    },
+    {
+      "id": "monetization_concern",
+      "name": "課金問題",
+      "keywords": ["課金", "ガチャ", "重課金", "課金厨", "金の無駄", "高すぎ"],
+      "weight": 0.7,
+      "emotion_polarity": "negative",
+      "escalation_pattern": "moral_judgment",
+      "cross_cluster_equivalents": {
+        "western": "monetization",
+        "east_asia_zh": "商业化"
+      }
+    }
+  ],
+  "metadata": {
+    "last_evolved": "2026-03-12T12:00:00Z",
+    "evolution_method": "manual_initial",
+    "confidence_threshold": 0.7,
+    "notes": "日本玩家表达更含蓄，敬语讽刺需要特殊处理",
+    "next_scheduled_evolution": "2026-03-19T12:00:00Z"
+  }
+}

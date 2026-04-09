@@ -1,0 +1,377 @@
+{
+  "analysis_timestamp": "2026-03-12T13:42:12.007926",
+  "total_batches": 3,
+  "total_comments": 70,
+  "summary": {
+    "average_toxicity_score": 0.44,
+    "toxicity_level_distribution": {
+      "moderate": 2,
+      "healthy": 1
+    },
+    "dominant_narratives": {
+      "technical_debt": 2,
+      "betrayal_core_players": 1
+    },
+    "echo_chamber_batches": 2,
+    "highest_toxicity": {
+      "batch": "heartopia_batch_1.json",
+      "score": 0.52,
+      "level": "moderate"
+    }
+  },
+  "batch_details": [
+    {
+      "region": "zh-CN",
+      "cluster": "east_asia",
+      "toxicity_score": 0.52,
+      "toxicity_level": "moderate",
+      "level_description": "中度毒性，叙事开始垄断",
+      "narrative_analysis": {
+        "dominant_motif": {
+          "id": "technical_debt",
+          "name": "技术债务",
+          "score": 2.5
+        },
+        "monopoly_index": 0.62,
+        "is_monopolized": true,
+        "all_motifs": {
+          "technical_debt": 2.5,
+          "secret_nerf": 0.85
+        }
+      },
+      "toxicity_dimensions": {
+        "category_scores": {
+          "identity_attack": {
+            "ratio": 0.03,
+            "severity": "critical",
+            "escalation_speed": "fast"
+          },
+          "moral_judgment": {
+            "ratio": 0.03,
+            "severity": "high",
+            "escalation_speed": "medium"
+          },
+          "conspiracy": {
+            "ratio": 0.03,
+            "severity": "medium",
+            "escalation_speed": "slow"
+          },
+          "us_vs_them": {
+            "ratio": 0.0,
+            "severity": "medium",
+            "escalation_speed": "medium"
+          },
+          "withdrawal_threat": {
+            "ratio": 0.0,
+            "severity": "high",
+            "escalation_speed": "fast"
+          },
+          "comparison_grievance": {
+            "ratio": 0.0,
+            "severity": "high",
+            "escalation_speed": "fast"
+          }
+        },
+        "overall_weaponization": 0.01,
+        "is_weaponized": false
+      },
+      "emotion_analysis": {
+        "negative_ratio": 0.87,
+        "cascade_count": 2,
+        "max_cascade_length": 15,
+        "resonance_strength": 0.88,
+        "is_echo_chamber": true
+      },
+      "trust_analysis": {
+        "trust_reserve": 0.94,
+        "trust_breakdown": {
+          "skepticism": {
+            "ratio": 0.0,
+            "impact": -0.8,
+            "count": 0
+          },
+          "promise_distrust": {
+            "ratio": 0.0,
+            "impact": -1.0,
+            "count": 0
+          },
+          "intent_attribution": {
+            "ratio": 0.0,
+            "impact": -1.2,
+            "count": 0
+          },
+          "official_skepticism": {
+            "ratio": 0.03,
+            "impact": -0.9,
+            "count": 1
+          },
+          "refund_demand": {
+            "ratio": 0.0,
+            "impact": -1.5,
+            "count": 0
+          },
+          "betrayal_feeling": {
+            "ratio": 0.03,
+            "impact": -1.0,
+            "count": 1
+          }
+        },
+        "is_trust_depleted": false
+      },
+      "regional_characteristics": {
+        "expression_style": "含蓄到直接（因国家而异）",
+        "collective_behavior": "高（集体行动倾向）",
+        "key_triggers": [
+          "民族主义",
+          "核心玩家背叛",
+          "服务态度"
+        ]
+      },
+      "intervention_recommendation": "主动沟通，打断叙事垄断",
+      "dictionary_evolution": null,
+      "batch_name": "heartopia_batch_1.json",
+      "comment_count": 30
+    },
+    {
+      "region": "zh-CN",
+      "cluster": "east_asia",
+      "toxicity_score": 0.29,
+      "toxicity_level": "healthy",
+      "level_description": "场域健康，多元声音并存",
+      "narrative_analysis": {
+        "dominant_motif": {
+          "id": "betrayal_core_players",
+          "name": "背叛核心玩家",
+          "score": 1.02
+        },
+        "monopoly_index": 0.56,
+        "is_monopolized": false,
+        "all_motifs": {
+          "betrayal_core_players": 1.02,
+          "technical_debt": 0.5
+        }
+      },
+      "toxicity_dimensions": {
+        "category_scores": {
+          "identity_attack": {
+            "ratio": 0.0,
+            "severity": "critical",
+            "escalation_speed": "fast"
+          },
+          "moral_judgment": {
+            "ratio": 0.0,
+            "severity": "high",
+            "escalation_speed": "medium"
+          },
+          "conspiracy": {
+            "ratio": 0.0,
+            "severity": "medium",
+            "escalation_speed": "slow"
+          },
+          "us_vs_them": {
+            "ratio": 0.0,
+            "severity": "medium",
+            "escalation_speed": "medium"
+          },
+          "withdrawal_threat": {
+            "ratio": 0.1,
+            "severity": "high",
+            "escalation_speed": "fast"
+          },
+          "comparison_grievance": {
+            "ratio": 0.05,
+            "severity": "high",
+            "escalation_speed": "fast"
+          }
+        },
+        "overall_weaponization": 0.03,
+        "is_weaponized": false
+      },
+      "emotion_analysis": {
+        "negative_ratio": 0.45,
+        "cascade_count": 0,
+        "max_cascade_length": 0,
+        "resonance_strength": 0.27,
+        "is_echo_chamber": false
+      },
+      "trust_analysis": {
+        "trust_reserve": 0.76,
+        "trust_breakdown": {
+          "skepticism": {
+            "ratio": 0.0,
+            "impact": -0.8,
+            "count": 0
+          },
+          "promise_distrust": {
+            "ratio": 0.05,
+            "impact": -1.0,
+            "count": 1
+          },
+          "intent_attribution": {
+            "ratio": 0.0,
+            "impact": -1.2,
+            "count": 0
+          },
+          "official_skepticism": {
+            "ratio": 0.05,
+            "impact": -0.9,
+            "count": 1
+          },
+          "refund_demand": {
+            "ratio": 0.1,
+            "impact": -1.5,
+            "count": 2
+          },
+          "betrayal_feeling": {
+            "ratio": 0.0,
+            "impact": -1.0,
+            "count": 0
+          }
+        },
+        "is_trust_depleted": false
+      },
+      "regional_characteristics": {
+        "expression_style": "含蓄到直接（因国家而异）",
+        "collective_behavior": "高（集体行动倾向）",
+        "key_triggers": [
+          "民族主义",
+          "核心玩家背叛",
+          "服务态度"
+        ]
+      },
+      "intervention_recommendation": "维持现状，定期监控",
+      "dictionary_evolution": null,
+      "batch_name": "heartopia_batch_2.json",
+      "comment_count": 20
+    },
+    {
+      "region": "zh-CN",
+      "cluster": "east_asia",
+      "toxicity_score": 0.52,
+      "toxicity_level": "moderate",
+      "level_description": "中度毒性，叙事开始垄断",
+      "narrative_analysis": {
+        "dominant_motif": {
+          "id": "technical_debt",
+          "name": "技术债务",
+          "score": 4.5
+        },
+        "monopoly_index": 0.73,
+        "is_monopolized": true,
+        "all_motifs": {
+          "technical_debt": 4.5,
+          "secret_nerf": 0.85
+        }
+      },
+      "toxicity_dimensions": {
+        "category_scores": {
+          "identity_attack": {
+            "ratio": 0.0,
+            "severity": "critical",
+            "escalation_speed": "fast"
+          },
+          "moral_judgment": {
+            "ratio": 0.0,
+            "severity": "high",
+            "escalation_speed": "medium"
+          },
+          "conspiracy": {
+            "ratio": 0.05,
+            "severity": "medium",
+            "escalation_speed": "slow"
+          },
+          "us_vs_them": {
+            "ratio": 0.0,
+            "severity": "medium",
+            "escalation_speed": "medium"
+          },
+          "withdrawal_threat": {
+            "ratio": 0.0,
+            "severity": "high",
+            "escalation_speed": "fast"
+          },
+          "comparison_grievance": {
+            "ratio": 0.1,
+            "severity": "high",
+            "escalation_speed": "fast"
+          }
+        },
+        "overall_weaponization": 0.03,
+        "is_weaponized": false
+      },
+      "emotion_analysis": {
+        "negative_ratio": 0.6,
+        "cascade_count": 3,
+        "max_cascade_length": 5,
+        "resonance_strength": 0.72,
+        "is_echo_chamber": true
+      },
+      "trust_analysis": {
+        "trust_reserve": 0.85,
+        "trust_breakdown": {
+          "skepticism": {
+            "ratio": 0.0,
+            "impact": -0.8,
+            "count": 0
+          },
+          "promise_distrust": {
+            "ratio": 0.1,
+            "impact": -1.0,
+            "count": 2
+          },
+          "intent_attribution": {
+            "ratio": 0.0,
+            "impact": -1.2,
+            "count": 0
+          },
+          "official_skepticism": {
+            "ratio": 0.05,
+            "impact": -0.9,
+            "count": 1
+          },
+          "refund_demand": {
+            "ratio": 0.0,
+            "impact": -1.5,
+            "count": 0
+          },
+          "betrayal_feeling": {
+            "ratio": 0.0,
+            "impact": -1.0,
+            "count": 0
+          }
+        },
+        "is_trust_depleted": false
+      },
+      "regional_characteristics": {
+        "expression_style": "含蓄到直接（因国家而异）",
+        "collective_behavior": "高（集体行动倾向）",
+        "key_triggers": [
+          "民族主义",
+          "核心玩家背叛",
+          "服务态度"
+        ]
+      },
+      "intervention_recommendation": "主动沟通，打断叙事垄断",
+      "dictionary_evolution": null,
+      "batch_name": "heartopia_batch_3.json",
+      "comment_count": 20
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "medium",
+      "action": "关注情绪聚集点，准备预案",
+      "reason": "平均毒性评分0.44处于轻度水平"
+    },
+    {
+      "priority": "high",
+      "action": "针对核心玩家背叛感，承认情感真实性，提供具体补偿方案",
+      "reason": "检测到核心玩家背叛叙事"
+    },
+    {
+      "priority": "medium",
+      "action": "针对技术问题，提供详细修复时间表，增加透明度",
+      "reason": "检测到技术债务叙事"
+    }
+  ]
+}

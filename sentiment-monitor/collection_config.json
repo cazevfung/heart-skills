@@ -1,0 +1,25 @@
+{
+  "output_base": "d:/App Dev/openclaw-main/skills/sentiment-monitor/collected_data",
+  "delay_between_games": 30,
+  "delay_between_batches": 10,
+  "games": [
+    {
+      "name": "heartopia",
+      "app_id": "45213",
+      "strategy": "incremental",
+      "batches": [
+        {
+          "name": "recent_30_days",
+          "since": "2026-02-10T00:00:00",
+          "limit": 200
+        },
+        {
+          "name": "historical_2025",
+          "since": "2025-01-01T00:00:00",
+          "until": "2025-12-31T23:59:59",
+          "limit": 300
+        }
+      ]
+    }
+  ]
+}

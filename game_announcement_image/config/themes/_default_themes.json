@@ -1,0 +1,67 @@
+{
+  "version": "1.0",
+  "description": "默认主题库，所有游戏共享的基础主题",
+  
+  "themes": {
+    "default": {
+      "background": "浅蓝天空，几朵白云，少量小花点缀",
+      "atmosphere": "友好、温馨、期待、新鲜感",
+      "lighting": "明亮的阳光",
+      "mood": "温馨日常"
+    },
+    "alien": {
+      "background": "深蓝紫色渐变星空，闪烁的星星，远处有飞碟发出的神秘光束",
+      "atmosphere": "神秘、奇幻、探索、未来感",
+      "lighting": "柔和的星光和飞碟光效",
+      "mood": "夜晚神秘"
+    },
+    "school": {
+      "background": "秋日黄昏天空，暖黄色调，几片飘落的梧桐叶",
+      "atmosphere": "温馨、学院风、秋日、书卷气",
+      "lighting": "温暖的午后阳光",
+      "mood": "秋日学院"
+    },
+    "halloween": {
+      "background": "暗紫色夜空，一轮明月，南瓜灯点缀",
+      "atmosphere": "神秘、俏皮、节日氛围、惊喜",
+      "lighting": "南瓜灯的暖光和月光",
+      "mood": "夜晚节日"
+    },
+    "summer": {
+      "background": "清澈的蓝天，蓬松的白云，海边或泳池元素",
+      "atmosphere": "清凉、活力、夏日、放松",
+      "lighting": "明亮的夏日阳光",
+      "mood": "夏日清凉"
+    },
+    "spring": {
+      "background": "粉樱飘落的街道，嫩绿新叶，蓝天白云",
+      "atmosphere": "生机、浪漫、清新、希望",
+      "lighting": "柔和的春日阳光",
+      "mood": "春日浪漫"
+    },
+    "winter": {
+      "background": "银装素裹的小镇，飘落的雪花，温暖的灯光",
+      "atmosphere": "温暖、宁静、节日、团聚",
+      "lighting": "温暖的室内灯光和雪地反光",
+      "mood": "冬日温暖"
+    },
+    "anniversary": {
+      "background": "金色庆典舞台，飘落的彩带和气球，烟花绽放",
+      "atmosphere": "喜庆、热闹、感恩、欢乐",
+      "lighting": "温暖的金色庆典灯光",
+      "mood": "周年庆典"
+    },
+    "chinese_new_year": {
+      "background": "红色喜庆背景，灯笼高挂，烟花爆竹，金色祥云",
+      "atmosphere": "喜庆、团圆、热闹、祝福",
+      "lighting": "红色灯笼暖光和金色装饰光",
+      "mood": "春节喜庆"
+    },
+    "cyberpunk": {
+      "background": "霓虹闪烁的未来都市，全息投影，高楼林立",
+      "atmosphere": "科幻、酷炫、未来、科技感",
+      "lighting": "霓虹灯和全息投影的冷光",
+      "mood": "赛博朋克"
+    }
+  }
+}
